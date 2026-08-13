@@ -47,7 +47,7 @@ A curated collection of resources covering different aspects of load testing usi
 
 * [Homepage](https://locust.io/)
 * [Documentation](https://docs.locust.io/en/latest/)
-* [Source code](https://github.com/locustio/locust) ⭐ 28,067 | 🐛 5 | 🌐 Python | 📅 2026-08-10
+* [Source code](https://github.com/locustio/locust) ⭐ 28,070 | 🐛 5 | 🌐 Python | 📅 2026-08-10
 
 ## Getting Started
 
@@ -102,7 +102,7 @@ A curated collection of resources covering different aspects of load testing usi
 
 * [kangal](https://github.com/hellofresh/kangal) ⭐ 173 | 🐛 21 | 🌐 Go | 📅 2026-07-31 - Run performance tests in Kubernetes cluster using multiple load generators.
 * [locust-swarm](https://github.com/SvenskaSpel/locust-swarm) ⭐ 99 | 🐛 3 | 🌐 Python | 📅 2024-09-24 - A tool for launching distributed Locust runs on a set of load generators.
-* [locust-k8s-operator](https://github.com/AbdelrhmanHamouda/locust-k8s-operator) ⭐ 88 | 🐛 3 | 🌐 Go | 📅 2026-08-08 - Cloud native solution to run Locust on any Kubernetes cluster.
+* [locust-k8s-operator](https://github.com/AbdelrhmanHamouda/locust-k8s-operator) ⭐ 88 | 🐛 8 | 🌐 Go | 📅 2026-08-13 - Cloud native solution to run Locust on any Kubernetes cluster.
 * [klocust](https://github.com/DevopsArtFactory/klocust) ⭐ 65 | 🐛 2 | 🌐 Go | 📅 2026-02-21 - A command-line tool for managing Locust distributed load testing on Kubernetes.
 * [terraform-aws-loadtest-distribuited](https://github.com/marcosborges/terraform-aws-loadtest-distribuited) ⭐ 48 | 🐛 17 | 🌐 HCL | 📅 2024-07-29 - Terraform module to run your load tests created with JMeter, TaurusBzt or Locust on AWS as IaaS.
 * [amazon-eks-locust](https://github.com/aws-samples/Load-testing-your-workload-running-on-Amazon-EKS-with-Locust) ⭐ 39 | 🐛 0 | 🌐 Smarty | 📅 2022-04-25 - Load testing your workload running on Amazon EKS with Locust.
