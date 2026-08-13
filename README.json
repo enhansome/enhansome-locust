@@ -1,0 +1,807 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Getting Started"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tools & Integrations"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "boomer",
+          "description": "A better load generator for Locust, written in Golang.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-09T03:02:11Z",
+            "owner": "myzhan",
+            "repo": "boomer",
+            "stars": 1237
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "locust4j",
+          "description": "A load generator for Locust, written in Java.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-01-06T01:38:22Z",
+            "owner": "myzhan",
+            "repo": "locust4j",
+            "stars": 88
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "swarm",
+          "description": "An elegant Java client for Locust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-01-03T19:24:29Z",
+            "owner": "anhldbk",
+            "repo": "swarm",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "node-locust",
+          "description": "A Node.js load generator for Locust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-02-25T11:10:19Z",
+            "owner": "jspdown",
+            "repo": "node-locust",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ably-boomer",
+          "description": "Ably load generator for Locust, based on the boomer library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-02-14T16:27:27Z",
+            "owner": "ably",
+            "repo": "ably-boomer",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ably-locust",
+          "description": "A JavaScript load generator for Locust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-07-19T05:10:14Z",
+            "owner": "ably-labs",
+            "repo": "ably-locust",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Workers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "invokust",
+          "description": "A wrapper for Locust to allow running load tests in Python or on AWS Lambda.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-07-30T18:46:49Z",
+            "owner": "FutureSharks",
+            "repo": "invokust",
+            "stars": 159
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "stormer",
+          "description": "Wrappers for making load test with Locust more convenient.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-05-18T08:00:28Z",
+            "owner": "debugtalk",
+            "repo": "stormer",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "strezz",
+          "description": "A wrapper for stress testing using Locust based on Jest.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-10-20T03:02:28Z",
+            "owner": "abdoutelb",
+            "repo": "strezz",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "Wrappers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "har2locust",
+          "description": "Convert HAR file to a Locust script.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-14T09:08:03Z",
+            "owner": "SvenskaSpel",
+            "repo": "har2locust",
+            "stars": 233
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "transformer",
+          "description": "A command-line tool and Python library to transform/convert web browser sessions (HAR files) into Locust load testing scenarios (locustfile).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-03-15T13:56:31Z",
+            "owner": "zalando-incubator",
+            "repo": "transformer",
+            "stars": 104
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "swagger-to-locustfile",
+          "description": "A command-line tool to create Locust tasks file (locustfile) from Swagger/OpenAPI spec.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-11T19:01:28Z",
+            "owner": "lieldulev",
+            "repo": "swagger-to-locustfile",
+            "stars": 33
+          }
+        }
+      ],
+      "title": "Converters"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "locust-vscode-extension",
+          "description": "VS Code extension with support for Locust Cloud and tools for seamless Locust Cloud/Locust Load Testing integration.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2026-05-17T14:40:59Z",
+            "owner": "locustcloud",
+            "repo": "extension",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "locust-extension",
+          "description": "VS Code extension to simplify the usage of Locust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2021-12-09T16:47:09Z",
+            "owner": "JeremyJeanson",
+            "repo": "locust-extension",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "IDE Extensions"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "terraform-aws-locust",
+          "description": "Deploy a Locust stress test cluster on AWS based on CoreOS/Docker.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HCL",
+            "last_commit": "2016-02-25T21:08:52Z",
+            "owner": "mettjus",
+            "repo": "terraform-aws-locust",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ansible-role-locust",
+          "description": "An Ansible role to manage Locust master instances.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-12-28T06:42:04Z",
+            "owner": "tinx",
+            "repo": "ansible-role-locust",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "locust_slave",
+          "description": "An Ansible role to manage Locust slave instances.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-12-03T22:03:31Z",
+            "owner": "tinx",
+            "repo": "locust_slave",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Configuration Management"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "kangal",
+          "description": "Run performance tests in Kubernetes cluster using multiple load generators.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-31T13:21:26Z",
+            "owner": "hellofresh",
+            "repo": "kangal",
+            "stars": 173
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "locust-swarm",
+          "description": "A tool for launching distributed Locust runs on a set of load generators.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-09-24T16:34:50Z",
+            "owner": "SvenskaSpel",
+            "repo": "locust-swarm",
+            "stars": 99
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "locust-k8s-operator",
+          "description": "Cloud native solution to run Locust on any Kubernetes cluster.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-08T14:46:38Z",
+            "owner": "AbdelrhmanHamouda",
+            "repo": "locust-k8s-operator",
+            "stars": 88
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "klocust",
+          "description": "A command-line tool for managing Locust distributed load testing on Kubernetes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-21T14:44:08Z",
+            "owner": "DevopsArtFactory",
+            "repo": "klocust",
+            "stars": 65
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-aws-loadtest-distribuited",
+          "description": "Terraform module to run your load tests created with JMeter, TaurusBzt or Locust on AWS as IaaS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HCL",
+            "last_commit": "2024-07-29T06:22:44Z",
+            "owner": "marcosborges",
+            "repo": "terraform-aws-loadtest-distribuited",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "amazon-eks-locust",
+          "description": "Load testing your workload running on Amazon EKS with Locust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smarty",
+            "last_commit": "2022-04-25T22:29:07Z",
+            "owner": "aws-samples",
+            "repo": "Load-testing-your-workload-running-on-Amazon-EKS-with-Locust",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zelt",
+          "description": "Zalando End-to-end Load Tester, a command-line tool for orchestrating the deployment of Locust in Kubernetes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-12T00:06:54Z",
+            "owner": "zalando-incubator",
+            "repo": "zelt",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "azure-locust",
+          "description": "Run distributed Locust load tests on Azure Container Instances.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-06-09T07:18:17Z",
+            "owner": "Lingaro",
+            "repo": "azure-locust",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "locust-on-azure",
+          "description": "Running distributed Locust on Azure Container Instances.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2022-08-05T18:20:42Z",
+            "owner": "yorek",
+            "repo": "locust-on-azure",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "locust-admin",
+          "description": "Dynamically create and manage Locust instances on a Kubernetes cluster.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-08-17T12:55:57Z",
+            "owner": "mms-gianni",
+            "repo": "locust-admin",
+            "stars": 14
+          }
+        }
+      ],
+      "title": "Distributed"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "httprunner",
+          "description": "A HTTP/S testing framework with reuse of Locust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-12-11T16:50:50Z",
+            "owner": "httprunner",
+            "repo": "httprunner",
+            "stars": 4295
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Grasshopper",
+          "description": "A lightweight framework for performing load tests, glues Locust, Pytest, some plugins and some custom code to provide a package that makes authoring load tests simple with very little boilerplate needed.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-05T12:08:02Z",
+            "owner": "alteryx",
+            "repo": "locust-grasshopper",
+            "stars": 195
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Grizzly",
+          "description": "A framework to easily define load test scenarios, mainly built on top of Locust and Behave.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-24T06:09:48Z",
+            "owner": "Biometria-se",
+            "repo": "grizzly",
+            "stars": 13
+          }
+        }
+      ],
+      "title": "Frameworks"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "JtlReporter",
+          "description": "Online reporting application to generate performance reports from Locust by either uploading CSV file or streaming data from the test run continuously.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-11T08:12:29Z",
+            "owner": "ludeknovy",
+            "repo": "jtl-reporter",
+            "stars": 151
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Locust Exporter",
+          "description": "A Locust metrics exporter for Prometheus.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-04-25T11:23:47Z",
+            "owner": "ContainerSolutions",
+            "repo": "locust_exporter",
+            "stars": 115
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "locust-cloudwatch",
+          "description": "Code and a CloudFormation template to publish Locust test results as AWS CloudWatch metrics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-11-22T00:12:01Z",
+            "owner": "concurrencylabs",
+            "repo": "locust-cloudwatch",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "locust-influxdb-listener",
+          "description": "Locust base project with a custom InfluxDB listener.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-11-08T19:03:49Z",
+            "owner": "pjcalvo",
+            "repo": "locust-influxdb-listener",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "locust-reporter",
+          "description": "Generate HTML reports from Locust load test output.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2021-02-24T18:03:36Z",
+            "owner": "benc-uk",
+            "repo": "locust-reporter",
+            "stars": 18
+          }
+        }
+      ],
+      "title": "Reporting"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "locust-csv-to-junit-xml",
+          "description": "Simple utility to convert Locust CSV output into JUnit XML.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-05-15T22:39:36Z",
+            "owner": "joncloud",
+            "repo": "locust-csv-to-junit-xml",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "locustcompare",
+          "description": "A command-line tool to compare Locust test results.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-10-22T13:20:20Z",
+            "owner": "panilya",
+            "repo": "locustcompare",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Results Processing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Keptn Locust Service",
+          "description": "Keptn integration to performance test application using Locust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-29T23:02:16Z",
+            "owner": "keptn-sandbox",
+            "repo": "locust-service",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "teamcity-locustio",
+          "description": "Configurable Locust test runner plugin for JetBrains Teamcity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2023-01-06T18:07:00Z",
+            "owner": "orn0t",
+            "repo": "teamcity-locustio",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "locust-github-action",
+          "description": "A GitHub action for load testing using Locust.",
+          "children": []
+        }
+      ],
+      "title": "CI/CD"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "stress-test-locust",
+          "description": "Template for stress testing with Python, Locust & Docker.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-01T19:21:37Z",
+            "owner": "rednafi",
+            "repo": "stress-test-locust",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BaselinePerformanceTest-Locust",
+          "description": "A setup to use Locust, docker-compose and GitHub Actions to run baseline performance tests.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-18T17:43:28Z",
+            "owner": "teixeira-fernando",
+            "repo": "BaselinePerformanceTest-Locust",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Templates"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Videos"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Related"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome Testing",
+          "description": "A curated list of testing resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-06T00:22:20Z",
+            "owner": "TheJambo",
+            "repo": "awesome-testing",
+            "stars": 2340
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Software Quality",
+          "description": "A list of free software testing and verification resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-02-01T15:23:18Z",
+            "owner": "ligurio",
+            "repo": "sqa-wiki",
+            "stars": 2321
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome JMeter",
+          "description": "Open-source load testing and performance measurement tool, written in Java.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-01T02:02:30Z",
+            "owner": "aliesbelik",
+            "repo": "awesome-jmeter",
+            "stars": 807
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome k6",
+          "description": "Open-source, developer-centric performance monitoring and load testing solution.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-22T19:01:43Z",
+            "owner": "grafana",
+            "repo": "awesome-k6",
+            "stars": 772
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Gatling",
+          "description": "Open-source load and performance testing framework based on Scala, Akka and Netty.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-09T11:47:20Z",
+            "owner": "aliesbelik",
+            "repo": "awesome-gatling",
+            "stars": 80
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Tsung",
+          "description": "Open-source multi-protocol distributed load testing tool, developed in Erlang.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-12T15:10:21Z",
+            "owner": "aliesbelik",
+            "repo": "awesome-tsung",
+            "stars": 23
+          }
+        }
+      ],
+      "title": "Awesome Lists"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Load Testing Toolkit",
+          "description": "Collection of open-source tools for debugging, benchmarking, load and stress testing your code or services.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-01T09:53:53Z",
+            "owner": "aliesbelik",
+            "repo": "load-testing-toolkit",
+            "stars": 251
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "How They Load Test",
+          "description": "A curated collection of publicly available resources on how companies around the world perform load testing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-11T15:09:18Z",
+            "owner": "aliesbelik",
+            "repo": "how-they-load",
+            "stars": 167
+          }
+        }
+      ],
+      "title": "Other"
+    },
+    {
+      "description": "Contributions are welcome! Please take a look at the CONTRIBUTING guidelines first.",
+      "items": [],
+      "title": "Contributing"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:09:57.626Z",
+    "original_repository": "aliesbelik/awesome-locust",
+    "original_repository_sha": "164123dccce30179e0fcaa321c302851eea2dae4",
+    "enhanced_repository": "enhansome/enhansome-locust",
+    "enhanced_repository_description": null,
+    "title": "Awesome Locust with stars"
+  }
+}

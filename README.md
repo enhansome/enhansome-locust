@@ -1,1 +1,204 @@
-# enhansome-locust
+# Awesome Locust with stars
+
+<!--lint ignore double-link match-punctuation -->
+
+[<img src="assets/images/locust-logo.svg" align="right" width="260" alt="Locust">](https://locust.io/)
+
+<!--lint ignore double-link-->
+
+A curated collection of resources covering different aspects of load testing using [Locust](https://locust.io/) framework and related stuff: plugins, integrations, testing techniques, DevOps practices, etc.
+
+<!--lint ignore double-link-->
+
+> [Locust](https://locust.io/) is an open-source scalable load testing framework written in Python.
+
+## Contents
+
+* [Official Resources](#official-resources)
+* [Getting Started](#getting-started)
+* [Tutorials](#tutorials)
+* [Tools & Integrations](#tools--integrations)
+  * [Plugins](#plugins)
+  * [Workers](#workers)
+  * [Wrappers](#wrappers)
+  * [Converters](#converters)
+  * [IDE Extensions](#ide-extensions)
+  * [Configuration Management](#configuration-management)
+  * [Distributed](#distributed)
+  * [Frameworks](#frameworks)
+  * [Reporting](#reporting)
+  * [Results Processing](#results-processing)
+  * [CI/CD](#cicd)
+  * [Test Management](#test-management)
+  * [Miscellaneous](#miscellaneous)
+* [Templates](#templates)
+* [Trainings & Courses](#trainings--courses)
+* [Videos](#videos)
+  * [Talks](#talks)
+  * [Video Tutorials](#video-tutorials)
+* [Community](#community)
+* [Related](#related)
+  * [Awesome Lists](#awesome-lists)
+  * [Other](#other)
+
+## Official Resources
+
+<!--lint ignore double-link-->
+
+* [Homepage](https://locust.io/)
+* [Documentation](https://docs.locust.io/en/latest/)
+* [Source code](https://github.com/locustio/locust) ⭐ 28,067 | 🐛 5 | 🌐 Python | 📅 2026-08-10
+
+## Getting Started
+
+## Tutorials
+
+* [Locust for JMeter users](https://howardosborne.github.io/locust_for_jmeter_users/) - A tutorial on using Locust for people familiar with Apache JMeter.
+* [How do I Locust](https://github.com/pglass/how-do-i-locust) ⚠️ Archived - A quick overview and random tips for Locust.
+* [Locust.io experiments](https://medium.com/locust-io-experiments) - Series of experiments with Locust.
+* [Locust makes performance testing easy](https://dev.solita.fi/2021/04/23/performance-testing-with-locust.html)
+
+## Tools & Integrations
+
+### Plugins
+
+* [locust-plugins](https://github.com/SvenskaSpel/locust-plugins) ⭐ 669 | 🐛 0 | 🌐 Python | 📅 2026-06-12 - A set of useful plugins/extensions for Locust.
+
+### Workers
+
+<!--lint ignore double-link-->
+
+* [boomer](https://github.com/myzhan/boomer) ⭐ 1,237 | 🐛 1 | 🌐 Go | 📅 2026-07-09 - A better load generator for Locust, written in Golang.
+* [locust4j](https://github.com/myzhan/locust4j) ⭐ 88 | 🐛 2 | 🌐 Java | 📅 2026-01-06 - A load generator for Locust, written in Java.
+* [swarm](https://github.com/anhldbk/swarm) ⭐ 34 | 🐛 5 | 🌐 Java | 📅 2025-01-03 - An elegant Java client for Locust.
+* [node-locust](https://github.com/jspdown/node-locust) ⭐ 10 | 🐛 0 | 🌐 JavaScript | 📅 2019-02-25 - A Node.js load generator for Locust.
+* [ably-boomer](https://github.com/ably/ably-boomer) ⭐ 8 | 🐛 1 | 🌐 Go | 📅 2023-02-14 - Ably load generator for Locust, based on the [boomer](https://github.com/myzhan/boomer) ⭐ 1,237 | 🐛 1 | 🌐 Go | 📅 2026-07-09 library.
+* [ably-locust](https://github.com/ably-labs/ably-locust) ⭐ 1 | 🐛 6 | 🌐 TypeScript | 📅 2023-07-19 - A JavaScript load generator for Locust.
+
+### Wrappers
+
+* [invokust](https://github.com/FutureSharks/invokust) ⭐ 159 | 🐛 9 | 🌐 Python | 📅 2023-07-30 - A wrapper for Locust to allow running load tests in Python or on AWS Lambda.
+* [stormer](https://github.com/debugtalk/stormer) ⭐ 49 | 🐛 0 | 🌐 Python | 📅 2017-05-18 - Wrappers for making load test with Locust more convenient.
+* [strezz](https://github.com/abdoutelb/strezz) ⭐ 8 | 🐛 16 | 🌐 JavaScript | 📅 2025-10-20 - A wrapper for stress testing using Locust based on Jest.
+
+### Converters
+
+* [har2locust](https://github.com/SvenskaSpel/har2locust) ⭐ 233 | 🐛 6 | 🌐 Python | 📅 2026-03-14 - Convert HAR file to a Locust script.
+* [transformer](https://github.com/zalando-incubator/transformer) ⭐ 104 | 🐛 17 | 🌐 Python | 📅 2023-03-15 - A command-line tool and Python library to transform/convert web browser sessions (HAR files) into Locust load testing scenarios (locustfile).
+* [swagger-to-locustfile](https://github.com/lieldulev/swagger-to-locustfile) ⭐ 33 | 🐛 4 | 🌐 JavaScript | 📅 2026-08-11 - A command-line tool to create Locust tasks file (locustfile) from Swagger/OpenAPI spec.
+
+### IDE Extensions
+
+* [locust-vscode-extension](https://github.com/locustcloud/extension) ⚠️ Archived - VS Code extension with support for Locust Cloud and tools for seamless Locust Cloud/Locust Load Testing integration.
+* [locust-extension](https://github.com/JeremyJeanson/locust-extension) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2021-12-09 - VS Code extension to simplify the usage of Locust.
+
+### Configuration Management
+
+* [terraform-aws-locust](https://github.com/mettjus/terraform-aws-locust) ⭐ 16 | 🐛 0 | 🌐 HCL | 📅 2016-02-25 - Deploy a Locust stress test cluster on AWS based on CoreOS/Docker.
+* [ansible-role-locust](https://github.com/tinx/ansible-role-locust) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2017-12-28 - An Ansible role to manage Locust master instances.
+* [locust\_slave](https://github.com/tinx/locust_slave) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2017-12-03 - An Ansible role to manage Locust slave instances.
+
+### Distributed
+
+* [kangal](https://github.com/hellofresh/kangal) ⭐ 173 | 🐛 21 | 🌐 Go | 📅 2026-07-31 - Run performance tests in Kubernetes cluster using multiple load generators.
+* [locust-swarm](https://github.com/SvenskaSpel/locust-swarm) ⭐ 99 | 🐛 3 | 🌐 Python | 📅 2024-09-24 - A tool for launching distributed Locust runs on a set of load generators.
+* [locust-k8s-operator](https://github.com/AbdelrhmanHamouda/locust-k8s-operator) ⭐ 88 | 🐛 3 | 🌐 Go | 📅 2026-08-08 - Cloud native solution to run Locust on any Kubernetes cluster.
+* [klocust](https://github.com/DevopsArtFactory/klocust) ⭐ 65 | 🐛 2 | 🌐 Go | 📅 2026-02-21 - A command-line tool for managing Locust distributed load testing on Kubernetes.
+* [terraform-aws-loadtest-distribuited](https://github.com/marcosborges/terraform-aws-loadtest-distribuited) ⭐ 48 | 🐛 17 | 🌐 HCL | 📅 2024-07-29 - Terraform module to run your load tests created with JMeter, TaurusBzt or Locust on AWS as IaaS.
+* [amazon-eks-locust](https://github.com/aws-samples/Load-testing-your-workload-running-on-Amazon-EKS-with-Locust) ⭐ 39 | 🐛 0 | 🌐 Smarty | 📅 2022-04-25 - Load testing your workload running on Amazon EKS with Locust.
+* [zelt](https://github.com/zalando-incubator/zelt) ⭐ 35 | 🐛 8 | 🌐 Python | 📅 2025-02-12 - Zalando End-to-end Load Tester, a command-line tool for orchestrating the deployment of Locust in Kubernetes.
+* [azure-locust](https://github.com/Lingaro/azure-locust) ⭐ 31 | 🐛 0 | 🌐 Python | 📅 2023-06-09 - Run distributed Locust load tests on Azure Container Instances.
+* [locust-on-azure](https://github.com/yorek/locust-on-azure) ⭐ 14 | 🐛 1 | 🌐 Shell | 📅 2022-08-05 - Running distributed Locust on Azure Container Instances.
+* [locust-admin](https://github.com/mms-gianni/locust-admin) ⭐ 14 | 🐛 0 | 🌐 JavaScript | 📅 2023-08-17 - Dynamically create and manage Locust instances on a Kubernetes cluster.
+
+### Frameworks
+
+* [httprunner](https://github.com/httprunner/httprunner) ⭐ 4,295 | 🐛 501 | 🌐 Go | 📅 2025-12-11 - A HTTP/S testing framework with reuse of Locust.
+* [Grasshopper](https://github.com/alteryx/locust-grasshopper) ⭐ 195 | 🐛 1 | 🌐 Python | 📅 2026-08-05 - A lightweight framework for performing load tests, glues Locust, Pytest, some plugins and some custom code to provide a package that makes authoring load tests simple with very little boilerplate needed.
+* [Grizzly](https://github.com/Biometria-se/grizzly) ⭐ 13 | 🐛 3 | 🌐 Python | 📅 2026-03-24 - A framework to easily define load test scenarios, mainly built on top of Locust and Behave.
+* [Taurus](https://gettaurus.org/docs/Locust/) - Locust Executor as part of Taurus framework.
+
+### Reporting
+
+* [JtlReporter](https://github.com/ludeknovy/jtl-reporter) ⭐ 151 | 🐛 2 | 🌐 Python | 📅 2026-04-11 - Online reporting application to generate performance reports from Locust by either uploading CSV file or streaming data from the test run continuously.
+* [Locust Exporter](https://github.com/ContainerSolutions/locust_exporter) ⭐ 115 | 🐛 12 | 🌐 Go | 📅 2024-04-25 - A Locust metrics exporter for Prometheus.
+* [locust-cloudwatch](https://github.com/concurrencylabs/locust-cloudwatch) ⭐ 31 | 🐛 1 | 🌐 Python | 📅 2019-11-22 - Code and a CloudFormation template to publish Locust test results as AWS CloudWatch metrics.
+* [locust-influxdb-listener](https://github.com/pjcalvo/locust-influxdb-listener) ⭐ 27 | 🐛 4 | 🌐 Python | 📅 2023-11-08 - Locust base project with a custom InfluxDB listener.
+* [locust-reporter](https://github.com/benc-uk/locust-reporter) ⚠️ Archived - Generate HTML reports from Locust load test output.
+
+### Results Processing
+
+* [locust-csv-to-junit-xml](https://github.com/joncloud/locust-csv-to-junit-xml) ⭐ 5 | 🐛 1 | 🌐 Python | 📅 2023-05-15 - Simple utility to convert Locust CSV output into JUnit XML.
+* [locustcompare](https://github.com/panilya/locustcompare) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2022-10-22 - A command-line tool to compare Locust test results.
+
+### CI/CD
+
+* [Keptn Locust Service](https://github.com/keptn-sandbox/locust-service) ⭐ 7 | 🐛 19 | 🌐 Go | 📅 2026-07-29 - [Keptn integration](https://medium.com/keptn/automating-evaluating-load-testing-with-locust-and-keptn-6cf5c8f76bed) to performance test application using Locust.
+* [teamcity-locustio](https://github.com/orn0t/teamcity-locustio) ⭐ 6 | 🐛 24 | 🌐 Kotlin | 📅 2023-01-06 - Configurable [Locust test runner plugin](https://plugins.jetbrains.com/plugin/13415-locust-io-test-runner) for JetBrains Teamcity.
+* [locust-github-action](https://github.com/marketplace/actions/locust-load-test) - A GitHub action for load testing using Locust.
+
+### Test Management
+
+* [Performance and load testing with Locust](https://docs.getxray.app/space/XRAYCLOUD/44565459/Performance+and+load+testing+with+Locust) - Integrating with Xray Test Management on Jira and Locust, using a custom report.
+
+### Miscellaneous
+
+* [locust.replay](https://github.com/zlorb/locust.replay) ⭐ 58 | 🐛 1 | 🌐 Python | 📅 2022-01-01 - Record and playback Locust tests with mitmproxy.
+
+## Templates
+
+* [stress-test-locust](https://github.com/rednafi/stress-test-locust) ⭐ 50 | 🐛 6 | 🌐 Python | 📅 2024-03-01 - Template for stress testing with Python, Locust & Docker.
+* [BaselinePerformanceTest-Locust](https://github.com/teixeira-fernando/BaselinePerformanceTest-Locust) ⭐ 4 | 🐛 6 | 🌐 Python | 📅 2026-06-18 - A setup to use Locust, docker-compose and GitHub Actions to run baseline performance tests.
+
+## Trainings & Courses
+
+* [Performance Testing Using Locust 1.0](https://www.udemy.com/course/performance-testing-using-locust/) - By Udemy.
+* [Locust Performance Framework Development with Real Project](https://www.udemy.com/course/locust-performance-framework-development-with-real-project/) - By Udemy.
+
+## Videos
+
+### Talks
+
+* [Performance testing in the cloud with Locust](https://www.youtube.com/watch?v=52nSa6UFeng) - Leon van Wijk @ Spaces Summit 2021.
+* [An Intro to Load Testing with Locust and Python](https://www.youtube.com/watch?v=uvs4cq6JCeU) - Gabriel Boorse @ PyBay 2019.
+* [Load test your backend with locust.io](https://www.youtube.com/watch?v=1_xROmLYvtY) - Ivan Matellanes @ PyLondinium 2018.
+* [Load testing with Locust](https://www.youtube.com/watch?v=XjSEgiFDARw) - Kubilay Kahveci @ FOSDEM 2018.
+* [Performance Testing with Python and Locust](https://www.youtube.com/watch?v=5sSouciEgWE) - Michael Sluyter @ PyTexas 2017.
+* [Distributed Load Testing with Kubernetes](https://www.youtube.com/watch?v=PyUOZC20lSI) - Amanda Waite @ Devoxx Belgium 2015.
+
+### Video Tutorials
+
+* [Load Testing with Python and Locust.io](https://www.youtube.com/playlist?list=PLotCx_Au_rT1LW_qpMWU40Q-vegZua-i8) - Tutorial series by Nicolai Gram.
+* [Learn Locust Series](https://www.youtube.com/playlist?list=PLJ9A48W0kpRKMCzJARCObgJs3SinOewp5) - By QAInsights.
+
+## Community
+
+* [`locust` on Stack Overflow](https://stackoverflow.com/questions/tagged/locust)
+* [`@locustio` on Twitter](https://x.com/locustio)
+* [`#locust` on Slack](https://slack.locust.io/)
+* [`locust-cloud` on Medium](https://medium.com/locust-cloud)
+
+## Related
+
+### Awesome Lists
+
+* [Awesome Testing](https://github.com/TheJambo/awesome-testing) ⭐ 2,340 | 🐛 8 | 📅 2026-08-06 - A curated list of testing resources.
+* [Awesome Software Quality](https://github.com/ligurio/sqa-wiki) ⭐ 2,321 | 🐛 0 | 📅 2023-02-01 - A list of free software testing and verification resources.
+* [Awesome JMeter](https://github.com/aliesbelik/awesome-jmeter) ⭐ 807 | 🐛 4 | 🌐 HTML | 📅 2026-08-01 - Open-source load testing and performance measurement tool, written in Java.
+* [Awesome k6](https://github.com/grafana/awesome-k6) ⭐ 772 | 🐛 3 | 📅 2026-07-22 - Open-source, developer-centric performance monitoring and load testing solution.
+* [Awesome Gatling](https://github.com/aliesbelik/awesome-gatling) ⭐ 80 | 🐛 0 | 📅 2026-08-09 - Open-source load and performance testing framework based on Scala, Akka and Netty.
+* [Awesome Tsung](https://github.com/aliesbelik/awesome-tsung) ⭐ 23 | 🐛 0 | 📅 2026-08-12 - Open-source multi-protocol distributed load testing tool, developed in Erlang.
+
+### Other
+
+* [Load Testing Toolkit](https://github.com/aliesbelik/load-testing-toolkit) ⭐ 251 | 🐛 1 | 📅 2026-07-01 - Collection of open-source tools for debugging, benchmarking, load and stress testing your code or services.
+* [How They Load Test](https://github.com/aliesbelik/how-they-load) ⭐ 167 | 🐛 1 | 📅 2026-08-11 - A curated collection of publicly available resources on how companies around the world perform load testing.
+
+## Contributing
+
+Contributions are welcome!<br>
+Please take a look at the [CONTRIBUTING](CONTRIBUTING.md) guidelines first.
+
+***
+
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
