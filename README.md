@@ -47,7 +47,7 @@ A curated collection of resources covering different aspects of load testing usi
 
 * [Homepage](https://locust.io/)
 * [Documentation](https://docs.locust.io/en/latest/)
-* [Source code](https://github.com/locustio/locust) ⭐ 28,075 | 🐛 4 | 🌐 Python | 📅 2026-08-10
+* [Source code](https://github.com/locustio/locust) ⭐ 28,076 | 🐛 3 | 🌐 Python | 📅 2026-08-10
 
 ## Getting Started
 
@@ -115,7 +115,7 @@ A curated collection of resources covering different aspects of load testing usi
 
 * [httprunner](https://github.com/httprunner/httprunner) ⭐ 4,292 | 🐛 502 | 🌐 Go | 📅 2025-12-11 - A HTTP/S testing framework with reuse of Locust.
 * [Grasshopper](https://github.com/alteryx/locust-grasshopper) ⭐ 195 | 🐛 1 | 🌐 Python | 📅 2026-08-05 - A lightweight framework for performing load tests, glues Locust, Pytest, some plugins and some custom code to provide a package that makes authoring load tests simple with very little boilerplate needed.
-* [Grizzly](https://github.com/Biometria-se/grizzly) ⭐ 13 | 🐛 4 | 🌐 Python | 📅 2026-03-24 - A framework to easily define load test scenarios, mainly built on top of Locust and Behave.
+* [Grizzly](https://github.com/Biometria-se/grizzly) ⭐ 13 | 🐛 3 | 🌐 Python | 📅 2026-08-18 - A framework to easily define load test scenarios, mainly built on top of Locust and Behave.
 * [Taurus](https://gettaurus.org/docs/Locust/) - Locust Executor as part of Taurus framework.
 
 ### Reporting
@@ -182,7 +182,7 @@ A curated collection of resources covering different aspects of load testing usi
 
 ### Awesome Lists
 
-* [Awesome Testing](https://github.com/TheJambo/awesome-testing) ⭐ 2,348 | 🐛 9 | 📅 2026-08-06 - A curated list of testing resources.
+* [Awesome Testing](https://github.com/TheJambo/awesome-testing) ⭐ 2,346 | 🐛 9 | 📅 2026-08-06 - A curated list of testing resources.
 * [Awesome Software Quality](https://github.com/ligurio/sqa-wiki) ⭐ 2,321 | 🐛 0 | 📅 2023-02-01 - A list of free software testing and verification resources.
 * [Awesome JMeter](https://github.com/aliesbelik/awesome-jmeter) ⭐ 807 | 🐛 4 | 🌐 HTML | 📅 2026-08-01 - Open-source load testing and performance measurement tool, written in Java.
 * [Awesome k6](https://github.com/grafana/awesome-k6) ⭐ 772 | 🐛 4 | 📅 2026-07-22 - Open-source, developer-centric performance monitoring and load testing solution.
@@ -201,4 +201,4 @@ Please take a look at the [CONTRIBUTING](CONTRIBUTING.md) guidelines first.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
