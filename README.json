@@ -334,7 +334,7 @@
                 "archived": false,
                 "id": 534245046,
                 "language": "Go",
-                "last_commit": "2026-08-13T14:03:40Z",
+                "last_commit": "2026-08-20T14:05:19Z",
                 "owner": "AbdelrhmanHamouda",
                 "repo": "locust-k8s-operator",
                 "stars": 90
@@ -464,7 +464,7 @@
                 "last_commit": "2025-12-11T16:50:50Z",
                 "owner": "httprunner",
                 "repo": "httprunner",
-                "stars": 4293
+                "stars": 4294
               }
             },
             {
@@ -714,7 +714,7 @@
                 "last_commit": "2026-08-06T00:22:20Z",
                 "owner": "TheJambo",
                 "repo": "awesome-testing",
-                "stars": 2347
+                "stars": 2352
               }
             },
             {
@@ -759,7 +759,7 @@
                 "last_commit": "2026-08-18T23:40:48Z",
                 "owner": "grafana",
                 "repo": "awesome-k6",
-                "stars": 772
+                "stars": 773
               }
             },
             {
@@ -839,7 +839,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T14:33:47.484Z",
+    "last_updated": "2026-08-20T14:36:34.867Z",
     "original_repository": "aliesbelik/awesome-locust",
     "original_repository_id": 304007996,
     "original_repository_sha": "164123dccce30179e0fcaa321c302851eea2dae4",
