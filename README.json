@@ -711,7 +711,7 @@
                 "archived": false,
                 "id": 77133957,
                 "language": null,
-                "last_commit": "2026-08-06T00:22:20Z",
+                "last_commit": "2026-08-22T13:35:42Z",
                 "owner": "TheJambo",
                 "repo": "awesome-testing",
                 "stars": 2353
@@ -729,7 +729,7 @@
                 "last_commit": "2023-02-01T15:23:18Z",
                 "owner": "ligurio",
                 "repo": "sqa-wiki",
-                "stars": 2321
+                "stars": 2320
               }
             },
             {
@@ -759,7 +759,7 @@
                 "last_commit": "2026-08-18T23:40:48Z",
                 "owner": "grafana",
                 "repo": "awesome-k6",
-                "stars": 773
+                "stars": 774
               }
             },
             {
@@ -839,7 +839,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T14:35:16.972Z",
+    "last_updated": "2026-08-22T14:21:01.747Z",
     "original_repository": "aliesbelik/awesome-locust",
     "original_repository_id": 304007996,
     "original_repository_sha": "164123dccce30179e0fcaa321c302851eea2dae4",
