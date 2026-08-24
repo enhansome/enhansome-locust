@@ -4,6 +4,70 @@
       "description": null,
       "items": [
         {
+          "node_type": "item",
+          "title": "Source code",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1377867,
+            "language": "Python",
+            "last_commit": "2026-08-24T09:06:41Z",
+            "owner": "locustio",
+            "repo": "locust",
+            "stars": 28093
+          }
+        }
+      ],
+      "title": "Official Resources"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "How do I Locust",
+          "description": "A quick overview and random tips for Locust.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 30433006,
+            "language": null,
+            "last_commit": "2020-11-03T15:38:53Z",
+            "owner": "pglass",
+            "repo": "how-do-i-locust",
+            "stars": 138
+          }
+        }
+      ],
+      "title": "Tutorials"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "locust-plugins",
+              "description": "A set of useful plugins/extensions for Locust.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 209288596,
+                "language": "Python",
+                "last_commit": "2026-06-12T09:59:49Z",
+                "owner": "SvenskaSpel",
+                "repo": "locust-plugins",
+                "stars": 669
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Plugins"
+        },
+        {
           "children": [
             {
               "node_type": "item",
@@ -657,6 +721,28 @@
           "description": null,
           "node_type": "group",
           "title": "CI/CD"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "locust.replay",
+              "description": "Record and playback Locust tests with mitmproxy.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 57171046,
+                "language": "Python",
+                "last_commit": "2022-01-01T00:51:04Z",
+                "owner": "zlorb",
+                "repo": "locust.replay",
+                "stars": 58
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Miscellaneous"
         }
       ],
       "title": "Tools & Integrations"
@@ -839,7 +925,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T14:23:23.156Z",
+    "last_updated": "2026-08-24T14:39:58.386Z",
     "original_repository": "aliesbelik/awesome-locust",
     "original_repository_id": 304007996,
     "original_repository_sha": "164123dccce30179e0fcaa321c302851eea2dae4",
