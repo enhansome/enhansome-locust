@@ -15,7 +15,7 @@
             "last_commit": "2026-08-24T09:06:41Z",
             "owner": "locustio",
             "repo": "locust",
-            "stars": 28093
+            "stars": 28094
           }
         }
       ],
@@ -925,7 +925,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:39:58.386Z",
+    "last_updated": "2026-08-24T14:48:56.877Z",
     "original_repository": "aliesbelik/awesome-locust",
     "original_repository_id": 304007996,
     "original_repository_sha": "164123dccce30179e0fcaa321c302851eea2dae4",
