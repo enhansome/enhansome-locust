@@ -528,7 +528,7 @@
                 "last_commit": "2025-12-11T16:50:50Z",
                 "owner": "httprunner",
                 "repo": "httprunner",
-                "stars": 4294
+                "stars": 4295
               }
             },
             {
@@ -800,7 +800,7 @@
                 "last_commit": "2026-08-22T20:24:21Z",
                 "owner": "TheJambo",
                 "repo": "awesome-testing",
-                "stars": 2356
+                "stars": 2357
               }
             },
             {
@@ -925,7 +925,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:34:22.722Z",
+    "last_updated": "2026-08-25T14:44:58.281Z",
     "original_repository": "aliesbelik/awesome-locust",
     "original_repository_id": 304007996,
     "original_repository_sha": "164123dccce30179e0fcaa321c302851eea2dae4",
