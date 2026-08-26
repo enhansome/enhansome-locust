@@ -15,7 +15,7 @@
             "last_commit": "2026-08-24T09:06:41Z",
             "owner": "locustio",
             "repo": "locust",
-            "stars": 28097
+            "stars": 28103
           }
         }
       ],
@@ -797,7 +797,7 @@
                 "archived": false,
                 "id": 77133957,
                 "language": null,
-                "last_commit": "2026-08-22T20:24:21Z",
+                "last_commit": "2026-08-25T19:20:52Z",
                 "owner": "TheJambo",
                 "repo": "awesome-testing",
                 "stars": 2357
@@ -925,7 +925,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T14:44:58.281Z",
+    "last_updated": "2026-08-26T14:43:58.377Z",
     "original_repository": "aliesbelik/awesome-locust",
     "original_repository_id": 304007996,
     "original_repository_sha": "164123dccce30179e0fcaa321c302851eea2dae4",
