@@ -12,10 +12,10 @@
             "archived": false,
             "id": 1377867,
             "language": "Python",
-            "last_commit": "2026-08-24T09:06:41Z",
+            "last_commit": "2026-08-26T17:46:29Z",
             "owner": "locustio",
             "repo": "locust",
-            "stars": 28103
+            "stars": 28107
           }
         }
       ],
@@ -800,7 +800,7 @@
                 "last_commit": "2026-08-25T19:20:52Z",
                 "owner": "TheJambo",
                 "repo": "awesome-testing",
-                "stars": 2357
+                "stars": 2358
               }
             },
             {
@@ -925,9 +925,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T14:43:58.377Z",
-    "original_repository": "aliesbelik/awesome-locust",
-    "original_repository_id": 304007996,
+    "last_updated": "2026-08-27T11:48:26.604Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 304007996,
+      "language": null,
+      "last_commit": "2026-08-10T14:07:31Z",
+      "owner": "aliesbelik",
+      "repo": "awesome-locust",
+      "stars": 111
+    },
     "original_repository_sha": "164123dccce30179e0fcaa321c302851eea2dae4",
     "enhanced_repository": "enhansome/enhansome-locust",
     "enhanced_repository_description": null,
