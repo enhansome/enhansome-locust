@@ -15,7 +15,7 @@
             "last_commit": "2026-08-26T17:46:29Z",
             "owner": "locustio",
             "repo": "locust",
-            "stars": 28107
+            "stars": 28108
           }
         }
       ],
@@ -398,7 +398,7 @@
                 "archived": false,
                 "id": 534245046,
                 "language": "Go",
-                "last_commit": "2026-08-20T14:05:19Z",
+                "last_commit": "2026-08-27T14:04:35Z",
                 "owner": "AbdelrhmanHamouda",
                 "repo": "locust-k8s-operator",
                 "stars": 91
@@ -860,7 +860,7 @@
                 "last_commit": "2026-08-09T11:47:20Z",
                 "owner": "aliesbelik",
                 "repo": "awesome-gatling",
-                "stars": 79
+                "stars": 80
               }
             },
             {
@@ -925,7 +925,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:48:26.604Z",
+    "last_updated": "2026-08-27T23:38:12.047Z",
     "original_repository_info": {
       "archived": false,
       "id": 304007996,
