@@ -45,7 +45,7 @@ A curated collection of resources covering different aspects of load testing usi
 
 <!--lint ignore double-link-->
 
-* [Source code](https://github.com/locustio/locust) ⭐ 28,108 | 🐛 3 | 🌐 Python | 📅 2026-08-26
+* [Source code](https://github.com/locustio/locust) ⭐ 28,112 | 🐛 3 | 🌐 Python | 📅 2026-08-26
 * [Homepage](https://locust.io/)
 * [Documentation](https://docs.locust.io/en/latest/)
 
@@ -113,7 +113,7 @@ A curated collection of resources covering different aspects of load testing usi
 
 ### Frameworks
 
-* [httprunner](https://github.com/httprunner/httprunner) ⭐ 4,295 | 🐛 502 | 🌐 Go | 📅 2025-12-11 - A HTTP/S testing framework with reuse of Locust.
+* [httprunner](https://github.com/httprunner/httprunner) ⭐ 4,296 | 🐛 502 | 🌐 Go | 📅 2025-12-11 - A HTTP/S testing framework with reuse of Locust.
 * [Grasshopper](https://github.com/alteryx/locust-grasshopper) ⭐ 195 | 🐛 1 | 🌐 Python | 📅 2026-08-05 - A lightweight framework for performing load tests, glues Locust, Pytest, some plugins and some custom code to provide a package that makes authoring load tests simple with very little boilerplate needed.
 * [Grizzly](https://github.com/Biometria-se/grizzly) ⭐ 13 | 🐛 3 | 🌐 Python | 📅 2026-08-18 - A framework to easily define load test scenarios, mainly built on top of Locust and Behave.
 * [Taurus](https://gettaurus.org/docs/Locust/) - Locust Executor as part of Taurus framework.
@@ -182,7 +182,7 @@ A curated collection of resources covering different aspects of load testing usi
 
 ### Awesome Lists
 
-* [Awesome Testing](https://github.com/TheJambo/awesome-testing) ⭐ 2,358 | 🐛 8 | 📅 2026-08-25 - A curated list of testing resources.
+* [Awesome Testing](https://github.com/TheJambo/awesome-testing) ⭐ 2,359 | 🐛 5 | 📅 2026-08-28 - A curated list of testing resources.
 * [Awesome Software Quality](https://github.com/ligurio/sqa-wiki) ⭐ 2,320 | 🐛 0 | 📅 2023-02-01 - A list of free software testing and verification resources.
 * [Awesome JMeter](https://github.com/aliesbelik/awesome-jmeter) ⭐ 807 | 🐛 4 | 🌐 HTML | 📅 2026-08-01 - Open-source load testing and performance measurement tool, written in Java.
 * [Awesome k6](https://github.com/grafana/awesome-k6) ⭐ 774 | 🐛 3 | 📅 2026-08-18 - Open-source, developer-centric performance monitoring and load testing solution.
@@ -191,7 +191,7 @@ A curated collection of resources covering different aspects of load testing usi
 
 ### Other
 
-* [Load Testing Toolkit](https://github.com/aliesbelik/load-testing-toolkit) ⭐ 252 | 🐛 1 | 📅 2026-07-01 - Collection of open-source tools for debugging, benchmarking, load and stress testing your code or services.
+* [Load Testing Toolkit](https://github.com/aliesbelik/load-testing-toolkit) ⭐ 253 | 🐛 1 | 📅 2026-07-01 - Collection of open-source tools for debugging, benchmarking, load and stress testing your code or services.
 * [How They Load Test](https://github.com/aliesbelik/how-they-load) ⭐ 167 | 🐛 1 | 📅 2026-08-11 - A curated collection of publicly available resources on how companies around the world perform load testing.
 
 ## Contributing
@@ -201,4 +201,4 @@ Please take a look at the [CONTRIBUTING](CONTRIBUTING.md) guidelines first.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._

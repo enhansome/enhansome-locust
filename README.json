@@ -15,8 +15,9 @@
             "last_commit": "2026-08-26T17:46:29Z",
             "owner": "locustio",
             "repo": "locust",
-            "stars": 28108
-          }
+            "stars": 28112
+          },
+          "first_seen": "2026-08-28T23:26:00.844Z"
         }
       ],
       "title": "Official Resources"
@@ -37,7 +38,8 @@
             "owner": "pglass",
             "repo": "how-do-i-locust",
             "stars": 138
-          }
+          },
+          "first_seen": "2026-08-28T23:26:00.844Z"
         }
       ],
       "title": "Tutorials"
@@ -60,7 +62,8 @@
                 "owner": "SvenskaSpel",
                 "repo": "locust-plugins",
                 "stars": 669
-              }
+              },
+              "first_seen": "2026-08-28T23:26:00.844Z"
             }
           ],
           "description": null,
@@ -82,7 +85,8 @@
                 "owner": "myzhan",
                 "repo": "boomer",
                 "stars": 1237
-              }
+              },
+              "first_seen": "2026-08-28T23:26:00.844Z"
             },
             {
               "node_type": "item",
@@ -97,7 +101,8 @@
                 "owner": "myzhan",
                 "repo": "locust4j",
                 "stars": 88
-              }
+              },
+              "first_seen": "2026-08-28T23:26:00.844Z"
             },
             {
               "node_type": "item",
@@ -112,7 +117,8 @@
                 "owner": "anhldbk",
                 "repo": "swarm",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-28T23:26:00.844Z"
             },
             {
               "node_type": "item",
@@ -127,7 +133,8 @@
                 "owner": "jspdown",
                 "repo": "node-locust",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T23:26:00.844Z"
             },
             {
               "node_type": "item",
@@ -142,7 +149,8 @@
                 "owner": "ably",
                 "repo": "ably-boomer",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T23:26:00.844Z"
             },
             {
               "node_type": "item",
@@ -157,7 +165,8 @@
                 "owner": "ably-labs",
                 "repo": "ably-locust",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:26:00.844Z"
             }
           ],
           "description": null,
@@ -179,7 +188,8 @@
                 "owner": "FutureSharks",
                 "repo": "invokust",
                 "stars": 159
-              }
+              },
+              "first_seen": "2026-08-28T23:26:00.844Z"
             },
             {
               "node_type": "item",
@@ -194,7 +204,8 @@
                 "owner": "debugtalk",
                 "repo": "stormer",
                 "stars": 49
-              }
+              },
+              "first_seen": "2026-08-28T23:26:00.844Z"
             },
             {
               "node_type": "item",
@@ -209,7 +220,8 @@
                 "owner": "abdoutelb",
                 "repo": "strezz",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T23:26:00.844Z"
             }
           ],
           "description": null,
@@ -231,7 +243,8 @@
                 "owner": "SvenskaSpel",
                 "repo": "har2locust",
                 "stars": 234
-              }
+              },
+              "first_seen": "2026-08-28T23:26:00.844Z"
             },
             {
               "node_type": "item",
@@ -246,7 +259,8 @@
                 "owner": "zalando-incubator",
                 "repo": "transformer",
                 "stars": 104
-              }
+              },
+              "first_seen": "2026-08-28T23:26:00.844Z"
             },
             {
               "node_type": "item",
@@ -261,7 +275,8 @@
                 "owner": "lieldulev",
                 "repo": "swagger-to-locustfile",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-28T23:26:00.844Z"
             }
           ],
           "description": null,
@@ -283,7 +298,8 @@
                 "owner": "locustcloud",
                 "repo": "extension",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T23:26:00.844Z"
             },
             {
               "node_type": "item",
@@ -298,7 +314,8 @@
                 "owner": "JeremyJeanson",
                 "repo": "locust-extension",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T23:26:00.844Z"
             }
           ],
           "description": null,
@@ -320,7 +337,8 @@
                 "owner": "mettjus",
                 "repo": "terraform-aws-locust",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T23:26:00.844Z"
             },
             {
               "node_type": "item",
@@ -335,7 +353,8 @@
                 "owner": "tinx",
                 "repo": "ansible-role-locust",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T23:26:00.844Z"
             },
             {
               "node_type": "item",
@@ -350,7 +369,8 @@
                 "owner": "tinx",
                 "repo": "locust_slave",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:26:00.844Z"
             }
           ],
           "description": null,
@@ -372,7 +392,8 @@
                 "owner": "hellofresh",
                 "repo": "kangal",
                 "stars": 173
-              }
+              },
+              "first_seen": "2026-08-28T23:26:00.844Z"
             },
             {
               "node_type": "item",
@@ -387,7 +408,8 @@
                 "owner": "SvenskaSpel",
                 "repo": "locust-swarm",
                 "stars": 99
-              }
+              },
+              "first_seen": "2026-08-28T23:26:00.844Z"
             },
             {
               "node_type": "item",
@@ -402,7 +424,8 @@
                 "owner": "AbdelrhmanHamouda",
                 "repo": "locust-k8s-operator",
                 "stars": 91
-              }
+              },
+              "first_seen": "2026-08-28T23:26:00.844Z"
             },
             {
               "node_type": "item",
@@ -417,7 +440,8 @@
                 "owner": "DevopsArtFactory",
                 "repo": "klocust",
                 "stars": 65
-              }
+              },
+              "first_seen": "2026-08-28T23:26:00.844Z"
             },
             {
               "node_type": "item",
@@ -432,7 +456,8 @@
                 "owner": "marcosborges",
                 "repo": "terraform-aws-loadtest-distribuited",
                 "stars": 48
-              }
+              },
+              "first_seen": "2026-08-28T23:26:00.844Z"
             },
             {
               "node_type": "item",
@@ -447,7 +472,8 @@
                 "owner": "aws-samples",
                 "repo": "Load-testing-your-workload-running-on-Amazon-EKS-with-Locust",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-28T23:26:00.844Z"
             },
             {
               "node_type": "item",
@@ -462,7 +488,8 @@
                 "owner": "zalando-incubator",
                 "repo": "zelt",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-28T23:26:00.844Z"
             },
             {
               "node_type": "item",
@@ -477,7 +504,8 @@
                 "owner": "Lingaro",
                 "repo": "azure-locust",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-28T23:26:00.844Z"
             },
             {
               "node_type": "item",
@@ -492,7 +520,8 @@
                 "owner": "yorek",
                 "repo": "locust-on-azure",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T23:26:00.844Z"
             },
             {
               "node_type": "item",
@@ -507,7 +536,8 @@
                 "owner": "mms-gianni",
                 "repo": "locust-admin",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T23:26:00.844Z"
             }
           ],
           "description": null,
@@ -528,8 +558,9 @@
                 "last_commit": "2025-12-11T16:50:50Z",
                 "owner": "httprunner",
                 "repo": "httprunner",
-                "stars": 4295
-              }
+                "stars": 4296
+              },
+              "first_seen": "2026-08-28T23:26:00.844Z"
             },
             {
               "node_type": "item",
@@ -544,7 +575,8 @@
                 "owner": "alteryx",
                 "repo": "locust-grasshopper",
                 "stars": 195
-              }
+              },
+              "first_seen": "2026-08-28T23:26:00.844Z"
             },
             {
               "node_type": "item",
@@ -559,7 +591,8 @@
                 "owner": "Biometria-se",
                 "repo": "grizzly",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T23:26:00.844Z"
             }
           ],
           "description": null,
@@ -581,7 +614,8 @@
                 "owner": "ludeknovy",
                 "repo": "jtl-reporter",
                 "stars": 151
-              }
+              },
+              "first_seen": "2026-08-28T23:26:00.844Z"
             },
             {
               "node_type": "item",
@@ -596,7 +630,8 @@
                 "owner": "ContainerSolutions",
                 "repo": "locust_exporter",
                 "stars": 115
-              }
+              },
+              "first_seen": "2026-08-28T23:26:00.844Z"
             },
             {
               "node_type": "item",
@@ -611,7 +646,8 @@
                 "owner": "concurrencylabs",
                 "repo": "locust-cloudwatch",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-28T23:26:00.844Z"
             },
             {
               "node_type": "item",
@@ -626,7 +662,8 @@
                 "owner": "pjcalvo",
                 "repo": "locust-influxdb-listener",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-28T23:26:00.844Z"
             },
             {
               "node_type": "item",
@@ -641,7 +678,8 @@
                 "owner": "benc-uk",
                 "repo": "locust-reporter",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T23:26:00.844Z"
             }
           ],
           "description": null,
@@ -663,7 +701,8 @@
                 "owner": "joncloud",
                 "repo": "locust-csv-to-junit-xml",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T23:26:00.844Z"
             },
             {
               "node_type": "item",
@@ -678,7 +717,8 @@
                 "owner": "panilya",
                 "repo": "locustcompare",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T23:26:00.844Z"
             }
           ],
           "description": null,
@@ -700,7 +740,8 @@
                 "owner": "keptn-sandbox",
                 "repo": "locust-service",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T23:26:00.844Z"
             },
             {
               "node_type": "item",
@@ -715,7 +756,8 @@
                 "owner": "orn0t",
                 "repo": "teamcity-locustio",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T23:26:00.844Z"
             }
           ],
           "description": null,
@@ -737,7 +779,8 @@
                 "owner": "zlorb",
                 "repo": "locust.replay",
                 "stars": 58
-              }
+              },
+              "first_seen": "2026-08-28T23:26:00.844Z"
             }
           ],
           "description": null,
@@ -763,7 +806,8 @@
             "owner": "rednafi",
             "repo": "stress-test-locust",
             "stars": 50
-          }
+          },
+          "first_seen": "2026-08-28T23:26:00.844Z"
         },
         {
           "node_type": "item",
@@ -778,7 +822,8 @@
             "owner": "teixeira-fernando",
             "repo": "BaselinePerformanceTest-Locust",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T23:26:00.844Z"
         }
       ],
       "title": "Templates"
@@ -797,11 +842,12 @@
                 "archived": false,
                 "id": 77133957,
                 "language": null,
-                "last_commit": "2026-08-25T19:20:52Z",
+                "last_commit": "2026-08-28T21:20:23Z",
                 "owner": "TheJambo",
                 "repo": "awesome-testing",
-                "stars": 2358
-              }
+                "stars": 2359
+              },
+              "first_seen": "2026-08-28T23:26:00.844Z"
             },
             {
               "node_type": "item",
@@ -816,7 +862,8 @@
                 "owner": "ligurio",
                 "repo": "sqa-wiki",
                 "stars": 2320
-              }
+              },
+              "first_seen": "2026-08-28T23:26:00.844Z"
             },
             {
               "node_type": "item",
@@ -831,7 +878,8 @@
                 "owner": "aliesbelik",
                 "repo": "awesome-jmeter",
                 "stars": 807
-              }
+              },
+              "first_seen": "2026-08-28T23:26:00.844Z"
             },
             {
               "node_type": "item",
@@ -846,7 +894,8 @@
                 "owner": "grafana",
                 "repo": "awesome-k6",
                 "stars": 774
-              }
+              },
+              "first_seen": "2026-08-28T23:26:00.844Z"
             },
             {
               "node_type": "item",
@@ -861,7 +910,8 @@
                 "owner": "aliesbelik",
                 "repo": "awesome-gatling",
                 "stars": 80
-              }
+              },
+              "first_seen": "2026-08-28T23:26:00.844Z"
             },
             {
               "node_type": "item",
@@ -876,7 +926,8 @@
                 "owner": "aliesbelik",
                 "repo": "awesome-tsung",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T23:26:00.844Z"
             }
           ],
           "description": null,
@@ -897,8 +948,9 @@
                 "last_commit": "2026-07-01T09:53:53Z",
                 "owner": "aliesbelik",
                 "repo": "load-testing-toolkit",
-                "stars": 252
-              }
+                "stars": 253
+              },
+              "first_seen": "2026-08-28T23:26:00.844Z"
             },
             {
               "node_type": "item",
@@ -913,7 +965,8 @@
                 "owner": "aliesbelik",
                 "repo": "how-they-load",
                 "stars": 167
-              }
+              },
+              "first_seen": "2026-08-28T23:26:00.844Z"
             }
           ],
           "description": null,
@@ -925,7 +978,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T23:38:12.047Z",
+    "last_updated": "2026-08-28T23:26:00.844Z",
     "original_repository_info": {
       "archived": false,
       "id": 304007996,
