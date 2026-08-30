@@ -19,7 +19,7 @@
             "open_issues": 3,
             "owner": "locustio",
             "repo": "locust",
-            "stars": 28114,
+            "stars": 28113,
             "topics": [
               "benchmarking",
               "http",
@@ -143,7 +143,7 @@
                 "open_issues": 2,
                 "owner": "myzhan",
                 "repo": "locust4j",
-                "stars": 88,
+                "stars": 89,
                 "topics": [
                   "benchmark",
                   "benchmark-framework",
@@ -598,8 +598,8 @@
                 "id": 534245046,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-27T14:04:35Z",
-                "open_issues": 12,
+                "last_commit": "2026-08-30T11:02:36Z",
+                "open_issues": 5,
                 "owner": "AbdelrhmanHamouda",
                 "repo": "locust-k8s-operator",
                 "stars": 91,
@@ -822,7 +822,7 @@
                 "open_issues": 502,
                 "owner": "httprunner",
                 "repo": "httprunner",
-                "stars": 4295,
+                "stars": 4294,
                 "topics": [
                   "adb",
                   "agent-tars",
@@ -1258,7 +1258,7 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-08-28T21:20:23Z",
-                "open_issues": 6,
+                "open_issues": 8,
                 "owner": "TheJambo",
                 "repo": "awesome-testing",
                 "stars": 2363,
@@ -1348,7 +1348,7 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-08-18T23:40:48Z",
-                "open_issues": 3,
+                "open_issues": 2,
                 "owner": "grafana",
                 "repo": "awesome-k6",
                 "stars": 774,
@@ -1499,7 +1499,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T17:31:42.568Z",
+    "last_updated": "2026-08-30T17:57:20.133Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources covering different aspects of Locust load testing tool usage.",
