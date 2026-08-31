@@ -45,7 +45,7 @@ A curated collection of resources covering different aspects of load testing usi
 
 <!--lint ignore double-link-->
 
-* [Source code](https://github.com/locustio/locust) ⭐ 28,113 | 🐛 3 | 🌐 Python | 📅 2026-08-26
+* [Source code](https://github.com/locustio/locust) ⭐ 28,114 | 🐛 4 | 🌐 Python | 📅 2026-08-26
 * [Homepage](https://locust.io/)
 * [Documentation](https://docs.locust.io/en/latest/)
 
@@ -70,7 +70,7 @@ A curated collection of resources covering different aspects of load testing usi
 
 * [boomer](https://github.com/myzhan/boomer) ⭐ 1,237 | 🐛 1 | 🌐 Go | 📅 2026-07-09 - A better load generator for Locust, written in Golang.
 * [locust4j](https://github.com/myzhan/locust4j) ⭐ 89 | 🐛 2 | 🌐 Java | 📅 2026-01-06 - A load generator for Locust, written in Java.
-* [swarm](https://github.com/anhldbk/swarm) ⭐ 34 | 🐛 5 | 🌐 Java | 📅 2025-01-03 - An elegant Java client for Locust.
+* [swarm](https://github.com/anhldbk/swarm) ⭐ 36 | 🐛 5 | 🌐 Java | 📅 2025-01-03 - An elegant Java client for Locust.
 * [node-locust](https://github.com/jspdown/node-locust) ⭐ 10 | 🐛 0 | 🌐 JavaScript | 📅 2019-02-25 - A Node.js load generator for Locust.
 * [ably-boomer](https://github.com/ably/ably-boomer) ⭐ 8 | 🐛 1 | 🌐 Go | 📅 2023-02-14 - Ably load generator for Locust, based on the [boomer](https://github.com/myzhan/boomer) ⭐ 1,237 | 🐛 1 | 🌐 Go | 📅 2026-07-09 library.
 * [ably-locust](https://github.com/ably-labs/ably-locust) ⭐ 1 | 🐛 6 | 🌐 TypeScript | 📅 2023-07-19 - A JavaScript load generator for Locust.
@@ -182,7 +182,7 @@ A curated collection of resources covering different aspects of load testing usi
 
 ### Awesome Lists
 
-* [Awesome Testing](https://github.com/TheJambo/awesome-testing) ⭐ 2,363 | 🐛 8 | 📅 2026-08-28 - A curated list of testing resources.
+* [Awesome Testing](https://github.com/TheJambo/awesome-testing) ⭐ 2,363 | 🐛 6 | 📅 2026-08-30 - A curated list of testing resources.
 * [Awesome Software Quality](https://github.com/ligurio/sqa-wiki) ⭐ 2,320 | 🐛 0 | 📅 2023-02-01 - A list of free software testing and verification resources.
 * [Awesome JMeter](https://github.com/aliesbelik/awesome-jmeter) ⭐ 807 | 🐛 4 | 🌐 HTML | 📅 2026-08-01 - Open-source load testing and performance measurement tool, written in Java.
 * [Awesome k6](https://github.com/grafana/awesome-k6) ⭐ 774 | 🐛 2 | 📅 2026-08-18 - Open-source, developer-centric performance monitoring and load testing solution.
@@ -192,7 +192,7 @@ A curated collection of resources covering different aspects of load testing usi
 ### Other
 
 * [Load Testing Toolkit](https://github.com/aliesbelik/load-testing-toolkit) ⭐ 253 | 🐛 1 | 📅 2026-07-01 - Collection of open-source tools for debugging, benchmarking, load and stress testing your code or services.
-* [How They Load Test](https://github.com/aliesbelik/how-they-load) ⭐ 167 | 🐛 1 | 📅 2026-08-11 - A curated collection of publicly available resources on how companies around the world perform load testing.
+* [How They Load Test](https://github.com/aliesbelik/how-they-load) ⭐ 167 | 🐛 1 | 📅 2026-08-31 - A curated collection of publicly available resources on how companies around the world perform load testing.
 
 ## Contributing
 
@@ -201,4 +201,4 @@ Please take a look at the [CONTRIBUTING](CONTRIBUTING.md) guidelines first.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
