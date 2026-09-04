@@ -19,7 +19,7 @@
             "open_issues": 5,
             "owner": "locustio",
             "repo": "locust",
-            "stars": 28125,
+            "stars": 28127,
             "topics": [
               "benchmarking",
               "http",
@@ -879,8 +879,8 @@
                 "id": 409477688,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-18T10:40:00Z",
-                "open_issues": 3,
+                "last_commit": "2026-09-03T23:28:27Z",
+                "open_issues": 4,
                 "owner": "Biometria-se",
                 "repo": "grizzly",
                 "stars": 13,
@@ -1257,11 +1257,11 @@
                 "id": 77133957,
                 "language": null,
                 "license": "CC0-1.0",
-                "last_commit": "2026-09-01T23:22:10Z",
-                "open_issues": 7,
+                "last_commit": "2026-09-04T10:13:45Z",
+                "open_issues": 8,
                 "owner": "TheJambo",
                 "repo": "awesome-testing",
-                "stars": 2365,
+                "stars": 2366,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1499,7 +1499,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T17:33:45.664Z",
+    "last_updated": "2026-09-04T17:23:23.987Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources covering different aspects of Locust load testing tool usage.",
