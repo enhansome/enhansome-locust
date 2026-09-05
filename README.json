@@ -598,8 +598,8 @@
                 "id": 534245046,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-03T14:05:31Z",
-                "open_issues": 8,
+                "last_commit": "2026-09-04T20:02:55Z",
+                "open_issues": 6,
                 "owner": "AbdelrhmanHamouda",
                 "repo": "locust-k8s-operator",
                 "stars": 91,
@@ -1499,7 +1499,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T17:23:23.987Z",
+    "last_updated": "2026-09-05T16:34:08.828Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources covering different aspects of Locust load testing tool usage.",
