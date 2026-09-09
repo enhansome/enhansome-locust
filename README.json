@@ -19,7 +19,7 @@
             "open_issues": 4,
             "owner": "locustio",
             "repo": "locust",
-            "stars": 28135,
+            "stars": 28137,
             "topics": [
               "benchmarking",
               "http",
@@ -598,8 +598,8 @@
                 "id": 534245046,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-04T20:02:55Z",
-                "open_issues": 6,
+                "last_commit": "2026-09-09T01:28:26Z",
+                "open_issues": 7,
                 "owner": "AbdelrhmanHamouda",
                 "repo": "locust-k8s-operator",
                 "stars": 91,
@@ -1258,10 +1258,10 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-09-04T10:13:45Z",
-                "open_issues": 13,
+                "open_issues": 14,
                 "owner": "TheJambo",
                 "repo": "awesome-testing",
-                "stars": 2369,
+                "stars": 2371,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1289,7 +1289,7 @@
                 "open_issues": 0,
                 "owner": "ligurio",
                 "repo": "sqa-wiki",
-                "stars": 2320,
+                "stars": 2319,
                 "topics": [
                   "courses",
                   "ebooks",
@@ -1321,7 +1321,7 @@
                 "open_issues": 4,
                 "owner": "aliesbelik",
                 "repo": "awesome-jmeter",
-                "stars": 806,
+                "stars": 807,
                 "topics": [
                   "apache-jmeter",
                   "awesome",
@@ -1499,7 +1499,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T17:46:50.842Z",
+    "last_updated": "2026-09-09T17:37:09.324Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources covering different aspects of Locust load testing tool usage.",
