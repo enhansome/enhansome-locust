@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-07T06:44:42Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "locustio",
             "repo": "locust",
-            "stars": 28137,
+            "stars": 28140,
             "topics": [
               "benchmarking",
               "http",
@@ -598,8 +598,8 @@
                 "id": 534245046,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-09T01:28:26Z",
-                "open_issues": 7,
+                "last_commit": "2026-09-10T14:04:48Z",
+                "open_issues": 8,
                 "owner": "AbdelrhmanHamouda",
                 "repo": "locust-k8s-operator",
                 "stars": 91,
@@ -1258,10 +1258,10 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-09-04T10:13:45Z",
-                "open_issues": 14,
+                "open_issues": 16,
                 "owner": "TheJambo",
                 "repo": "awesome-testing",
-                "stars": 2371,
+                "stars": 2372,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1499,7 +1499,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T17:37:09.324Z",
+    "last_updated": "2026-09-10T17:30:14.321Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources covering different aspects of Locust load testing tool usage.",
