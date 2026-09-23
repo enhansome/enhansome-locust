@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-21T21:01:24Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "locustio",
             "repo": "locust",
-            "stars": 28177,
+            "stars": 28178,
             "topics": [
               "benchmarking",
               "http",
@@ -1000,7 +1000,7 @@
                 "open_issues": 4,
                 "owner": "pjcalvo",
                 "repo": "locust-influxdb-listener",
-                "stars": 27,
+                "stars": 28,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:26:00.844Z"
@@ -1258,10 +1258,10 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-09-13T22:20:18Z",
-                "open_issues": 20,
+                "open_issues": 23,
                 "owner": "TheJambo",
                 "repo": "awesome-testing",
-                "stars": 2379,
+                "stars": 2380,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1318,7 +1318,7 @@
                 "language": "HTML",
                 "license": "CC-BY-4.0",
                 "last_commit": "2026-08-01T02:02:30Z",
-                "open_issues": 4,
+                "open_issues": 5,
                 "owner": "aliesbelik",
                 "repo": "awesome-jmeter",
                 "stars": 807,
@@ -1499,7 +1499,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T17:58:37.747Z",
+    "last_updated": "2026-09-23T18:16:59.781Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources covering different aspects of Locust load testing tool usage.",
@@ -1511,7 +1511,7 @@
       "open_issues": 0,
       "owner": "aliesbelik",
       "repo": "awesome-locust",
-      "stars": 111,
+      "stars": 112,
       "topics": [
         "awesome",
         "awesome-list",
