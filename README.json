@@ -19,7 +19,7 @@
             "open_issues": 3,
             "owner": "locustio",
             "repo": "locust",
-            "stars": 28180,
+            "stars": 28183,
             "topics": [
               "benchmarking",
               "http",
@@ -822,7 +822,7 @@
                 "open_issues": 503,
                 "owner": "httprunner",
                 "repo": "httprunner",
-                "stars": 4296,
+                "stars": 4297,
                 "topics": [
                   "adb",
                   "agent-tars",
@@ -1257,8 +1257,8 @@
                 "id": 77133957,
                 "language": null,
                 "license": "CC0-1.0",
-                "last_commit": "2026-09-13T22:20:18Z",
-                "open_issues": 23,
+                "last_commit": "2026-09-24T20:30:33Z",
+                "open_issues": 14,
                 "owner": "TheJambo",
                 "repo": "awesome-testing",
                 "stars": 2379,
@@ -1289,7 +1289,7 @@
                 "open_issues": 0,
                 "owner": "ligurio",
                 "repo": "sqa-wiki",
-                "stars": 2320,
+                "stars": 2319,
                 "topics": [
                   "courses",
                   "ebooks",
@@ -1318,7 +1318,7 @@
                 "language": "HTML",
                 "license": "CC-BY-4.0",
                 "last_commit": "2026-08-01T02:02:30Z",
-                "open_issues": 5,
+                "open_issues": 3,
                 "owner": "aliesbelik",
                 "repo": "awesome-jmeter",
                 "stars": 807,
@@ -1351,7 +1351,7 @@
                 "open_issues": 2,
                 "owner": "grafana",
                 "repo": "awesome-k6",
-                "stars": 776,
+                "stars": 777,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1499,7 +1499,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T18:15:28.779Z",
+    "last_updated": "2026-09-25T18:15:18.269Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources covering different aspects of Locust load testing tool usage.",
