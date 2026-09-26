@@ -45,7 +45,7 @@ A curated collection of resources covering different aspects of load testing usi
 
 <!--lint ignore double-link-->
 
-* [Source code](https://github.com/locustio/locust) ⭐ 28,183 | 🐛 3 | 🌐 Python | 📅 2026-09-21
+* [Source code](https://github.com/locustio/locust) ⭐ 28,185 | 🐛 2 | 🌐 Python | 📅 2026-09-26
 * [Homepage](https://locust.io/)
 * [Documentation](https://docs.locust.io/en/latest/)
 
@@ -182,7 +182,7 @@ A curated collection of resources covering different aspects of load testing usi
 
 ### Awesome Lists
 
-* [Awesome Testing](https://github.com/TheJambo/awesome-testing) ⭐ 2,379 | 🐛 14 | 📅 2026-09-24 - A curated list of testing resources.
+* [Awesome Testing](https://github.com/TheJambo/awesome-testing) ⭐ 2,380 | 🐛 10 | 📅 2026-09-25 - A curated list of testing resources.
 * [Awesome Software Quality](https://github.com/ligurio/sqa-wiki) ⭐ 2,319 | 🐛 0 | 📅 2023-02-01 - A list of free software testing and verification resources.
 * [Awesome JMeter](https://github.com/aliesbelik/awesome-jmeter) ⭐ 807 | 🐛 3 | 🌐 HTML | 📅 2026-08-01 - Open-source load testing and performance measurement tool, written in Java.
 * [Awesome k6](https://github.com/grafana/awesome-k6) ⭐ 777 | 🐛 2 | 📅 2026-08-18 - Open-source, developer-centric performance monitoring and load testing solution.
@@ -201,4 +201,4 @@ Please take a look at the [CONTRIBUTING](CONTRIBUTING.md) guidelines first.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
