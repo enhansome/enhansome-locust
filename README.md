@@ -45,7 +45,7 @@ A curated collection of resources covering different aspects of load testing usi
 
 <!--lint ignore double-link-->
 
-* [Source code](https://github.com/locustio/locust) ⭐ 28,187 | 🐛 5 | 🌐 Python | 📅 2026-09-26
+* [Source code](https://github.com/locustio/locust) ⭐ 28,189 | 🐛 5 | 🌐 Python | 📅 2026-09-26
 * [Homepage](https://locust.io/)
 * [Documentation](https://docs.locust.io/en/latest/)
 
@@ -102,7 +102,7 @@ A curated collection of resources covering different aspects of load testing usi
 
 * [kangal](https://github.com/hellofresh/kangal) ⭐ 173 | 🐛 21 | 🌐 Go | 📅 2026-07-31 - Run performance tests in Kubernetes cluster using multiple load generators.
 * [locust-swarm](https://github.com/SvenskaSpel/locust-swarm) ⭐ 99 | 🐛 3 | 🌐 Python | 📅 2024-09-24 - A tool for launching distributed Locust runs on a set of load generators.
-* [locust-k8s-operator](https://github.com/AbdelrhmanHamouda/locust-k8s-operator) ⭐ 92 | 🐛 12 | 🌐 Go | 📅 2026-09-17 - Cloud native solution to run Locust on any Kubernetes cluster.
+* [locust-k8s-operator](https://github.com/AbdelrhmanHamouda/locust-k8s-operator) ⭐ 93 | 🐛 12 | 🌐 Go | 📅 2026-09-17 - Cloud native solution to run Locust on any Kubernetes cluster.
 * [klocust](https://github.com/DevopsArtFactory/klocust) ⭐ 65 | 🐛 2 | 🌐 Go | 📅 2026-02-21 - A command-line tool for managing Locust distributed load testing on Kubernetes.
 * [terraform-aws-loadtest-distribuited](https://github.com/marcosborges/terraform-aws-loadtest-distribuited) ⭐ 48 | 🐛 17 | 🌐 HCL | 📅 2024-07-29 - Terraform module to run your load tests created with JMeter, TaurusBzt or Locust on AWS as IaaS.
 * [amazon-eks-locust](https://github.com/aws-samples/Load-testing-your-workload-running-on-Amazon-EKS-with-Locust) ⭐ 39 | 🐛 0 | 🌐 Smarty | 📅 2022-04-25 - Load testing your workload running on Amazon EKS with Locust.
@@ -182,10 +182,10 @@ A curated collection of resources covering different aspects of load testing usi
 
 ### Awesome Lists
 
-* [Awesome Testing](https://github.com/TheJambo/awesome-testing) ⭐ 2,381 | 🐛 13 | 📅 2026-09-27 - A curated list of testing resources.
+* [Awesome Testing](https://github.com/TheJambo/awesome-testing) ⭐ 2,381 | 🐛 16 | 📅 2026-09-27 - A curated list of testing resources.
 * [Awesome Software Quality](https://github.com/ligurio/sqa-wiki) ⭐ 2,319 | 🐛 0 | 📅 2023-02-01 - A list of free software testing and verification resources.
 * [Awesome JMeter](https://github.com/aliesbelik/awesome-jmeter) ⭐ 807 | 🐛 4 | 🌐 HTML | 📅 2026-08-01 - Open-source load testing and performance measurement tool, written in Java.
-* [Awesome k6](https://github.com/grafana/awesome-k6) ⭐ 777 | 🐛 3 | 📅 2026-08-18 - Open-source, developer-centric performance monitoring and load testing solution.
+* [Awesome k6](https://github.com/grafana/awesome-k6) ⭐ 778 | 🐛 2 | 📅 2026-09-30 - Open-source, developer-centric performance monitoring and load testing solution.
 * [Awesome Gatling](https://github.com/aliesbelik/awesome-gatling) ⭐ 80 | 🐛 0 | 📅 2026-08-09 - Open-source load and performance testing framework based on Scala, Akka and Netty.
 * [Awesome Tsung](https://github.com/aliesbelik/awesome-tsung) ⭐ 23 | 🐛 0 | 📅 2026-08-12 - Open-source multi-protocol distributed load testing tool, developed in Erlang.
 
@@ -201,4 +201,4 @@ Please take a look at the [CONTRIBUTING](CONTRIBUTING.md) guidelines first.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
