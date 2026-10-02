@@ -19,7 +19,7 @@
             "open_issues": 6,
             "owner": "locustio",
             "repo": "locust",
-            "stars": 28192,
+            "stars": 28195,
             "topics": [
               "benchmarking",
               "http",
@@ -822,7 +822,7 @@
                 "open_issues": 503,
                 "owner": "httprunner",
                 "repo": "httprunner",
-                "stars": 4296,
+                "stars": 4297,
                 "topics": [
                   "adb",
                   "agent-tars",
@@ -1257,11 +1257,11 @@
                 "id": 77133957,
                 "language": null,
                 "license": "CC0-1.0",
-                "last_commit": "2026-09-30T21:33:54Z",
-                "open_issues": 10,
+                "last_commit": "2026-10-01T22:12:14Z",
+                "open_issues": 0,
                 "owner": "TheJambo",
                 "repo": "awesome-testing",
-                "stars": 2381,
+                "stars": 2380,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1348,7 +1348,7 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-09-30T14:34:21Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "grafana",
                 "repo": "awesome-k6",
                 "stars": 778,
@@ -1499,7 +1499,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T19:17:51.657Z",
+    "last_updated": "2026-10-02T19:01:10.331Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources covering different aspects of Locust load testing tool usage.",
