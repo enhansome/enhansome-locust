@@ -45,7 +45,7 @@ A curated collection of resources covering different aspects of load testing usi
 
 <!--lint ignore double-link-->
 
-* [Source code](https://github.com/locustio/locust) ⭐ 28,195 | 🐛 8 | 🌐 Python | 📅 2026-09-26
+* [Source code](https://github.com/locustio/locust) ⭐ 28,196 | 🐛 10 | 🌐 Python | 📅 2026-10-03
 * [Homepage](https://locust.io/)
 * [Documentation](https://docs.locust.io/en/latest/)
 
@@ -120,7 +120,7 @@ A curated collection of resources covering different aspects of load testing usi
 
 ### Reporting
 
-* [JtlReporter](https://github.com/ludeknovy/jtl-reporter) ⭐ 151 | 🐛 2 | 🌐 Python | 📅 2026-04-11 - Online reporting application to generate performance reports from Locust by either uploading CSV file or streaming data from the test run continuously.
+* [JtlReporter](https://github.com/ludeknovy/jtl-reporter) ⭐ 151 | 🐛 1 | 🌐 Python | 📅 2026-04-11 - Online reporting application to generate performance reports from Locust by either uploading CSV file or streaming data from the test run continuously.
 * [Locust Exporter](https://github.com/ContainerSolutions/locust_exporter) ⭐ 115 | 🐛 12 | 🌐 Go | 📅 2024-04-25 - A Locust metrics exporter for Prometheus.
 * [locust-cloudwatch](https://github.com/concurrencylabs/locust-cloudwatch) ⭐ 31 | 🐛 1 | 🌐 Python | 📅 2019-11-22 - Code and a CloudFormation template to publish Locust test results as AWS CloudWatch metrics.
 * [locust-influxdb-listener](https://github.com/pjcalvo/locust-influxdb-listener) ⭐ 28 | 🐛 4 | 🌐 Python | 📅 2023-11-08 - Locust base project with a custom InfluxDB listener.
@@ -182,7 +182,7 @@ A curated collection of resources covering different aspects of load testing usi
 
 ### Awesome Lists
 
-* [Awesome Testing](https://github.com/TheJambo/awesome-testing) ⭐ 2,380 | 🐛 0 | 📅 2026-10-01 - A curated list of testing resources.
+* [Awesome Testing](https://github.com/TheJambo/awesome-testing) ⭐ 2,380 | 🐛 1 | 📅 2026-10-01 - A curated list of testing resources.
 * [Awesome Software Quality](https://github.com/ligurio/sqa-wiki) ⭐ 2,319 | 🐛 0 | 📅 2023-02-01 - A list of free software testing and verification resources.
 * [Awesome JMeter](https://github.com/aliesbelik/awesome-jmeter) ⭐ 807 | 🐛 4 | 🌐 HTML | 📅 2026-08-01 - Open-source load testing and performance measurement tool, written in Java.
 * [Awesome k6](https://github.com/grafana/awesome-k6) ⭐ 778 | 🐛 3 | 📅 2026-09-30 - Open-source, developer-centric performance monitoring and load testing solution.
