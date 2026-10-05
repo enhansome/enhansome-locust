@@ -15,11 +15,11 @@
             "id": 1377867,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-04T10:43:21Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-04T20:46:09Z",
+            "open_issues": 5,
             "owner": "locustio",
             "repo": "locust",
-            "stars": 28197,
+            "stars": 28198,
             "topics": [
               "benchmarking",
               "http",
@@ -115,7 +115,7 @@
                 "open_issues": 1,
                 "owner": "myzhan",
                 "repo": "boomer",
-                "stars": 1237,
+                "stars": 1236,
                 "topics": [
                   "benchmark",
                   "benchmark-framework",
@@ -822,7 +822,7 @@
                 "open_issues": 503,
                 "owner": "httprunner",
                 "repo": "httprunner",
-                "stars": 4298,
+                "stars": 4297,
                 "topics": [
                   "adb",
                   "agent-tars",
@@ -1258,10 +1258,10 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-10-01T22:12:14Z",
-                "open_issues": 1,
+                "open_issues": 4,
                 "owner": "TheJambo",
                 "repo": "awesome-testing",
-                "stars": 2380,
+                "stars": 2381,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1321,7 +1321,7 @@
                 "open_issues": 4,
                 "owner": "aliesbelik",
                 "repo": "awesome-jmeter",
-                "stars": 807,
+                "stars": 806,
                 "topics": [
                   "apache-jmeter",
                   "awesome",
@@ -1499,7 +1499,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T18:00:03.975Z",
+    "last_updated": "2026-10-05T21:29:41.252Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources covering different aspects of Locust load testing tool usage.",
