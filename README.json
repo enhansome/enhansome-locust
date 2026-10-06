@@ -19,7 +19,7 @@
             "open_issues": 5,
             "owner": "locustio",
             "repo": "locust",
-            "stars": 28199,
+            "stars": 28197,
             "topics": [
               "benchmarking",
               "http",
@@ -593,12 +593,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "Deploy and manage Locust tests on Kubernetes. ",
+                "description": "Locust Kubernetes operator: run distributed Locust load tests on Kubernetes with a LocustTest CRD. Helm chart, OpenTelemetry, OpenShift support.",
                 "homepage": "https://abdelrhmanhamouda.github.io/locust-k8s-operator/",
                 "id": 534245046,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-17T22:41:21Z",
+                "last_commit": "2026-10-06T17:38:08Z",
                 "open_issues": 12,
                 "owner": "AbdelrhmanHamouda",
                 "repo": "locust-k8s-operator",
@@ -606,11 +606,24 @@
                 "topics": [
                   "ci",
                   "cloud",
+                  "crd",
+                  "devops",
+                  "distributed-load-testing",
+                  "golang",
+                  "helm-chart",
+                  "k8s",
                   "kubernetes",
+                  "kubernetes-operator",
+                  "load-testing",
+                  "load-testing-tool",
                   "locust",
+                  "locust-operator",
+                  "openshift",
+                  "opentelemetry",
                   "operator",
                   "performance",
-                  "performance-testing"
+                  "performance-testing",
+                  "stress-testing"
                 ]
               },
               "first_seen": "2026-08-28T23:26:00.844Z"
@@ -1258,7 +1271,7 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-10-01T22:12:14Z",
-                "open_issues": 5,
+                "open_issues": 6,
                 "owner": "TheJambo",
                 "repo": "awesome-testing",
                 "stars": 2381,
@@ -1378,8 +1391,8 @@
                 "id": 216829747,
                 "language": null,
                 "license": "CC-BY-4.0",
-                "last_commit": "2026-10-01T12:18:10Z",
-                "open_issues": 1,
+                "last_commit": "2026-10-06T11:29:34Z",
+                "open_issues": 0,
                 "owner": "aliesbelik",
                 "repo": "awesome-gatling",
                 "stars": 80,
@@ -1409,8 +1422,8 @@
                 "id": 54726764,
                 "language": null,
                 "license": "CC-BY-4.0",
-                "last_commit": "2026-10-01T07:42:33Z",
-                "open_issues": 1,
+                "last_commit": "2026-10-06T10:56:45Z",
+                "open_issues": 0,
                 "owner": "aliesbelik",
                 "repo": "awesome-tsung",
                 "stars": 23,
@@ -1446,7 +1459,7 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2026-09-18T13:27:03Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "aliesbelik",
                 "repo": "load-testing-toolkit",
                 "stars": 253,
@@ -1499,7 +1512,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:50:59.143Z",
+    "last_updated": "2026-10-06T19:19:22.570Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources covering different aspects of Locust load testing tool usage.",
@@ -1507,11 +1520,11 @@
       "id": 304007996,
       "language": null,
       "license": "CC-BY-4.0",
-      "last_commit": "2026-10-01T10:15:22Z",
+      "last_commit": "2026-10-06T11:18:04Z",
       "open_issues": 1,
       "owner": "aliesbelik",
       "repo": "awesome-locust",
-      "stars": 112,
+      "stars": 111,
       "topics": [
         "awesome",
         "awesome-list",
@@ -1523,7 +1536,7 @@
         "python"
       ]
     },
-    "original_repository_sha": "164123dccce30179e0fcaa321c302851eea2dae4",
+    "original_repository_sha": "3b18d68eb0946f61d7c2cb92ca729966d9d80209",
     "enhanced_repository": "enhansome/enhansome-locust",
     "enhanced_repository_description": null,
     "title": "Awesome Locust with stars"
