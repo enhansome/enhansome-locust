@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-04T20:46:09Z",
-            "open_issues": 5,
+            "open_issues": 4,
             "owner": "locustio",
             "repo": "locust",
-            "stars": 28197,
+            "stars": 28202,
             "topics": [
               "benchmarking",
               "http",
@@ -87,7 +87,7 @@
                 "open_issues": 0,
                 "owner": "SvenskaSpel",
                 "repo": "locust-plugins",
-                "stars": 669,
+                "stars": 670,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:26:00.844Z"
@@ -598,8 +598,8 @@
                 "id": 534245046,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-06T17:38:08Z",
-                "open_issues": 12,
+                "last_commit": "2026-10-07T08:58:22Z",
+                "open_issues": 8,
                 "owner": "AbdelrhmanHamouda",
                 "repo": "locust-k8s-operator",
                 "stars": 93,
@@ -1271,7 +1271,7 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-10-01T22:12:14Z",
-                "open_issues": 6,
+                "open_issues": 7,
                 "owner": "TheJambo",
                 "repo": "awesome-testing",
                 "stars": 2381,
@@ -1302,7 +1302,7 @@
                 "open_issues": 0,
                 "owner": "ligurio",
                 "repo": "sqa-wiki",
-                "stars": 2319,
+                "stars": 2320,
                 "topics": [
                   "courses",
                   "ebooks",
@@ -1512,7 +1512,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T19:19:22.570Z",
+    "last_updated": "2026-10-07T19:45:56.429Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources covering different aspects of Locust load testing tool usage.",
