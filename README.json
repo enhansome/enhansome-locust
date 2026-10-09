@@ -15,11 +15,11 @@
             "id": 1377867,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-04T20:46:09Z",
-            "open_issues": 5,
+            "last_commit": "2026-10-08T21:20:33Z",
+            "open_issues": 7,
             "owner": "locustio",
             "repo": "locust",
-            "stars": 28200,
+            "stars": 28198,
             "topics": [
               "benchmarking",
               "http",
@@ -115,7 +115,7 @@
                 "open_issues": 1,
                 "owner": "myzhan",
                 "repo": "boomer",
-                "stars": 1236,
+                "stars": 1237,
                 "topics": [
                   "benchmark",
                   "benchmark-framework",
@@ -598,7 +598,7 @@
                 "id": 534245046,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-07T08:58:22Z",
+                "last_commit": "2026-10-08T23:43:26Z",
                 "open_issues": 8,
                 "owner": "AbdelrhmanHamouda",
                 "repo": "locust-k8s-operator",
@@ -835,7 +835,7 @@
                 "open_issues": 503,
                 "owner": "httprunner",
                 "repo": "httprunner",
-                "stars": 4297,
+                "stars": 4298,
                 "topics": [
                   "adb",
                   "agent-tars",
@@ -1271,7 +1271,7 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-10-08T08:47:08Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "TheJambo",
                 "repo": "awesome-testing",
                 "stars": 2383,
@@ -1512,7 +1512,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T19:41:34.372Z",
+    "last_updated": "2026-10-09T19:17:36.378Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources covering different aspects of Locust load testing tool usage.",
