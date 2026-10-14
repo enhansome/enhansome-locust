@@ -19,7 +19,7 @@
             "open_issues": 12,
             "owner": "locustio",
             "repo": "locust",
-            "stars": 28202,
+            "stars": 28208,
             "topics": [
               "benchmarking",
               "http",
@@ -1271,7 +1271,7 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-10-08T08:47:08Z",
-                "open_issues": 13,
+                "open_issues": 14,
                 "owner": "TheJambo",
                 "repo": "awesome-testing",
                 "stars": 2391,
@@ -1302,7 +1302,7 @@
                 "open_issues": 0,
                 "owner": "ligurio",
                 "repo": "sqa-wiki",
-                "stars": 2321,
+                "stars": 2320,
                 "topics": [
                   "courses",
                   "ebooks",
@@ -1512,7 +1512,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T20:06:08.137Z",
+    "last_updated": "2026-10-14T18:20:15.640Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources covering different aspects of Locust load testing tool usage.",
