@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-18T09:10:26Z",
-            "open_issues": 3,
+            "open_issues": 4,
             "owner": "locustio",
             "repo": "locust",
-            "stars": 28219,
+            "stars": 28221,
             "topics": [
               "benchmarking",
               "http",
@@ -87,7 +87,7 @@
                 "open_issues": 0,
                 "owner": "SvenskaSpel",
                 "repo": "locust-plugins",
-                "stars": 670,
+                "stars": 671,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:26:00.844Z"
@@ -1270,8 +1270,8 @@
                 "id": 77133957,
                 "language": null,
                 "license": "CC0-1.0",
-                "last_commit": "2026-10-08T08:47:08Z",
-                "open_issues": 23,
+                "last_commit": "2026-10-19T19:23:27Z",
+                "open_issues": 27,
                 "owner": "TheJambo",
                 "repo": "awesome-testing",
                 "stars": 2391,
@@ -1459,10 +1459,10 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2026-09-18T13:27:03Z",
-                "open_issues": 2,
+                "open_issues": 4,
                 "owner": "aliesbelik",
                 "repo": "load-testing-toolkit",
-                "stars": 253,
+                "stars": 252,
                 "topics": [
                   "benchmarking",
                   "ddos",
@@ -1512,7 +1512,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T17:05:41.984Z",
+    "last_updated": "2026-10-19T19:40:36.696Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources covering different aspects of Locust load testing tool usage.",
