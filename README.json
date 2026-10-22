@@ -15,11 +15,11 @@
             "id": 1377867,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-18T09:10:26Z",
-            "open_issues": 8,
+            "last_commit": "2026-10-21T20:20:56Z",
+            "open_issues": 9,
             "owner": "locustio",
             "repo": "locust",
-            "stars": 28229,
+            "stars": 28233,
             "topics": [
               "benchmarking",
               "http",
@@ -598,7 +598,7 @@
                 "id": 534245046,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-15T14:04:37Z",
+                "last_commit": "2026-10-22T14:04:09Z",
                 "open_issues": 11,
                 "owner": "AbdelrhmanHamouda",
                 "repo": "locust-k8s-operator",
@@ -1270,11 +1270,11 @@
                 "id": 77133957,
                 "language": null,
                 "license": "CC0-1.0",
-                "last_commit": "2026-10-20T18:24:52Z",
-                "open_issues": 4,
+                "last_commit": "2026-10-22T17:13:27Z",
+                "open_issues": 0,
                 "owner": "TheJambo",
                 "repo": "awesome-testing",
-                "stars": 2395,
+                "stars": 2396,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1302,7 +1302,7 @@
                 "open_issues": 0,
                 "owner": "ligurio",
                 "repo": "sqa-wiki",
-                "stars": 2321,
+                "stars": 2320,
                 "topics": [
                   "courses",
                   "ebooks",
@@ -1364,7 +1364,7 @@
                 "open_issues": 4,
                 "owner": "grafana",
                 "repo": "awesome-k6",
-                "stars": 780,
+                "stars": 781,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1512,7 +1512,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T18:25:31.392Z",
+    "last_updated": "2026-10-22T18:20:58.929Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources covering different aspects of Locust load testing tool usage.",
