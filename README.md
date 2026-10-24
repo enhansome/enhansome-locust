@@ -45,7 +45,7 @@ A curated collection of resources covering different aspects of load testing usi
 
 <!--lint ignore double-link-->
 
-* [Source code](https://github.com/locustio/locust) ⭐ 28,235 | 🐛 9 | 🌐 Python | 📅 2026-10-21
+* [Source code](https://github.com/locustio/locust) ⭐ 28,236 | 🐛 9 | 🌐 Python | 📅 2026-10-21
 * [Homepage](https://locust.io/)
 * [Documentation](https://docs.locust.io/en/latest/)
 
@@ -62,7 +62,7 @@ A curated collection of resources covering different aspects of load testing usi
 
 ### Plugins
 
-* [locust-plugins](https://github.com/SvenskaSpel/locust-plugins) ⭐ 671 | 🐛 0 | 🌐 Python | 📅 2026-06-12 - A set of useful plugins/extensions for Locust.
+* [locust-plugins](https://github.com/SvenskaSpel/locust-plugins) ⭐ 670 | 🐛 0 | 🌐 Python | 📅 2026-06-12 - A set of useful plugins/extensions for Locust.
 
 ### Workers
 
@@ -114,13 +114,13 @@ A curated collection of resources covering different aspects of load testing usi
 ### Frameworks
 
 * [httprunner](https://github.com/httprunner/httprunner) ⭐ 4,304 | 🐛 503 | 🌐 Go | 📅 2025-12-11 - A HTTP/S testing framework with reuse of Locust.
-* [Grasshopper](https://github.com/alteryx/locust-grasshopper) ⭐ 196 | 🐛 1 | 🌐 Python | 📅 2026-08-05 - A lightweight framework for performing load tests, glues Locust, Pytest, some plugins and some custom code to provide a package that makes authoring load tests simple with very little boilerplate needed.
+* [Grasshopper](https://github.com/alteryx/locust-grasshopper) ⭐ 196 | 🐛 2 | 🌐 Python | 📅 2026-08-05 - A lightweight framework for performing load tests, glues Locust, Pytest, some plugins and some custom code to provide a package that makes authoring load tests simple with very little boilerplate needed.
 * [Grizzly](https://github.com/Biometria-se/grizzly) ⭐ 13 | 🐛 4 | 🌐 Python | 📅 2026-09-03 - A framework to easily define load test scenarios, mainly built on top of Locust and Behave.
 * [Taurus](https://gettaurus.org/docs/Locust/) - Locust Executor as part of Taurus framework.
 
 ### Reporting
 
-* [JtlReporter](https://github.com/ludeknovy/jtl-reporter) ⭐ 152 | 🐛 1 | 🌐 Python | 📅 2026-04-11 - Online reporting application to generate performance reports from Locust by either uploading CSV file or streaming data from the test run continuously.
+* [JtlReporter](https://github.com/ludeknovy/jtl-reporter) ⭐ 152 | 🐛 2 | 🌐 Python | 📅 2026-04-11 - Online reporting application to generate performance reports from Locust by either uploading CSV file or streaming data from the test run continuously.
 * [Locust Exporter](https://github.com/ContainerSolutions/locust_exporter) ⭐ 115 | 🐛 12 | 🌐 Go | 📅 2024-04-25 - A Locust metrics exporter for Prometheus.
 * [locust-cloudwatch](https://github.com/concurrencylabs/locust-cloudwatch) ⭐ 31 | 🐛 1 | 🌐 Python | 📅 2019-11-22 - Code and a CloudFormation template to publish Locust test results as AWS CloudWatch metrics.
 * [locust-influxdb-listener](https://github.com/pjcalvo/locust-influxdb-listener) ⭐ 28 | 🐛 4 | 🌐 Python | 📅 2023-11-08 - Locust base project with a custom InfluxDB listener.
@@ -182,7 +182,7 @@ A curated collection of resources covering different aspects of load testing usi
 
 ### Awesome Lists
 
-* [Awesome Testing](https://github.com/TheJambo/awesome-testing) ⭐ 2,396 | 🐛 3 | 📅 2026-10-22 - A curated list of testing resources.
+* [Awesome Testing](https://github.com/TheJambo/awesome-testing) ⭐ 2,400 | 🐛 0 | 📅 2026-10-23 - A curated list of testing resources.
 * [Awesome Software Quality](https://github.com/ligurio/sqa-wiki) ⭐ 2,320 | 🐛 0 | 📅 2023-02-01 - A list of free software testing and verification resources.
 * [Awesome JMeter](https://github.com/aliesbelik/awesome-jmeter) ⭐ 805 | 🐛 2 | 🌐 HTML | 📅 2026-10-08 - Open-source load testing and performance measurement tool, written in Java.
 * [Awesome k6](https://github.com/grafana/awesome-k6) ⭐ 781 | 🐛 4 | 📅 2026-10-11 - Open-source, developer-centric performance monitoring and load testing solution.
@@ -191,8 +191,8 @@ A curated collection of resources covering different aspects of load testing usi
 
 ### Other
 
-* [Load Testing Toolkit](https://github.com/aliesbelik/load-testing-toolkit) ⭐ 252 | 🐛 3 | 📅 2026-09-18 - Collection of open-source tools for debugging, benchmarking, load and stress testing your code or services.
-* [How They Load Test](https://github.com/aliesbelik/how-they-load) ⭐ 168 | 🐛 1 | 📅 2026-08-31 - A curated collection of publicly available resources on how companies around the world perform load testing.
+* [Load Testing Toolkit](https://github.com/aliesbelik/load-testing-toolkit) ⭐ 252 | 🐛 4 | 📅 2026-09-18 - Collection of open-source tools for debugging, benchmarking, load and stress testing your code or services.
+* [How They Load Test](https://github.com/aliesbelik/how-they-load) ⭐ 168 | 🐛 2 | 📅 2026-08-31 - A curated collection of publicly available resources on how companies around the world perform load testing.
 
 ## Contributing
 
@@ -201,4 +201,4 @@ Please take a look at the [CONTRIBUTING](CONTRIBUTING.md) guidelines first.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
