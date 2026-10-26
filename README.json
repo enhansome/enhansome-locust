@@ -15,11 +15,11 @@
             "id": 1377867,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-24T18:37:08Z",
-            "open_issues": 8,
+            "last_commit": "2026-10-26T18:44:57Z",
+            "open_issues": 9,
             "owner": "locustio",
             "repo": "locust",
-            "stars": 28239,
+            "stars": 28243,
             "topics": [
               "benchmarking",
               "http",
@@ -925,11 +925,11 @@
                 "id": 183593218,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-25T13:15:57Z",
+                "last_commit": "2026-10-25T18:08:31Z",
                 "open_issues": 2,
                 "owner": "ludeknovy",
                 "repo": "jtl-reporter",
-                "stars": 152,
+                "stars": 151,
                 "topics": [
                   "comparison",
                   "jmeter",
@@ -1270,11 +1270,11 @@
                 "id": 77133957,
                 "language": null,
                 "license": "CC0-1.0",
-                "last_commit": "2026-10-25T09:09:44Z",
-                "open_issues": 3,
+                "last_commit": "2026-10-26T09:09:49Z",
+                "open_issues": 5,
                 "owner": "TheJambo",
                 "repo": "awesome-testing",
-                "stars": 2401,
+                "stars": 2403,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1334,7 +1334,7 @@
                 "open_issues": 2,
                 "owner": "aliesbelik",
                 "repo": "awesome-jmeter",
-                "stars": 806,
+                "stars": 807,
                 "topics": [
                   "apache-jmeter",
                   "awesome",
@@ -1364,7 +1364,7 @@
                 "open_issues": 4,
                 "owner": "grafana",
                 "repo": "awesome-k6",
-                "stars": 781,
+                "stars": 782,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1512,7 +1512,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T17:26:34.630Z",
+    "last_updated": "2026-10-26T19:45:52.699Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources covering different aspects of Locust load testing tool usage.",
