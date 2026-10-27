@@ -15,11 +15,11 @@
             "id": 1377867,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-26T18:44:57Z",
-            "open_issues": 9,
+            "last_commit": "2026-10-27T18:05:02Z",
+            "open_issues": 11,
             "owner": "locustio",
             "repo": "locust",
-            "stars": 28243,
+            "stars": 28244,
             "topics": [
               "benchmarking",
               "http",
@@ -858,18 +858,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "a load testing tool extended from locust",
+                "description": "Build Python performance test suites with Locust and pytest",
                 "homepage": null,
                 "id": 614084334,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-05T12:08:02Z",
+                "last_commit": "2026-10-27T16:00:41Z",
                 "open_issues": 2,
                 "owner": "alteryx",
                 "repo": "locust-grasshopper",
                 "stars": 196,
                 "topics": [
                   "load-testing",
+                  "locust",
                   "performance",
                   "performance-metrics",
                   "performance-testing",
@@ -1271,7 +1272,7 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-10-26T09:09:49Z",
-                "open_issues": 5,
+                "open_issues": 7,
                 "owner": "TheJambo",
                 "repo": "awesome-testing",
                 "stars": 2403,
@@ -1302,7 +1303,7 @@
                 "open_issues": 0,
                 "owner": "ligurio",
                 "repo": "sqa-wiki",
-                "stars": 2320,
+                "stars": 2321,
                 "topics": [
                   "courses",
                   "ebooks",
@@ -1512,7 +1513,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T19:45:52.699Z",
+    "last_updated": "2026-10-27T19:14:24.714Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources covering different aspects of Locust load testing tool usage.",
