@@ -16,7 +16,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-30T18:29:21Z",
-            "open_issues": 9,
+            "open_issues": 13,
             "owner": "locustio",
             "repo": "locust",
             "stars": 28254,
@@ -1272,7 +1272,7 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-10-30T18:53:31Z",
-                "open_issues": 3,
+                "open_issues": 4,
                 "owner": "TheJambo",
                 "repo": "awesome-testing",
                 "stars": 2408,
@@ -1361,11 +1361,11 @@
                 "id": 236692087,
                 "language": null,
                 "license": "CC0-1.0",
-                "last_commit": "2026-10-11T04:03:00Z",
+                "last_commit": "2026-10-30T22:02:37Z",
                 "open_issues": 5,
                 "owner": "grafana",
                 "repo": "awesome-k6",
-                "stars": 782,
+                "stars": 783,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1513,7 +1513,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T18:59:58.181Z",
+    "last_updated": "2026-10-31T18:15:16.121Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources covering different aspects of Locust load testing tool usage.",
