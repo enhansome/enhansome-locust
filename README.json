@@ -15,11 +15,11 @@
             "id": 1377867,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-02T13:04:21Z",
-            "open_issues": 11,
+            "last_commit": "2026-11-03T17:54:39Z",
+            "open_issues": 12,
             "owner": "locustio",
             "repo": "locust",
-            "stars": 28260,
+            "stars": 28259,
             "topics": [
               "benchmarking",
               "http",
@@ -589,7 +589,7 @@
             {
               "node_type": "item",
               "title": "locust-k8s-operator",
-              "description": "Cloud native solution to run Locust on any Kubernetes cluster.",
+              "description": "Kubernetes operator for distributed Locust load testing, with native OpenTelemetry support, CI/CD integration, and support for OpenShift and Helm deployments.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -835,7 +835,7 @@
                 "open_issues": 503,
                 "owner": "httprunner",
                 "repo": "httprunner",
-                "stars": 4306,
+                "stars": 4307,
                 "topics": [
                   "adb",
                   "agent-tars",
@@ -1272,10 +1272,10 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-11-02T21:43:12Z",
-                "open_issues": 3,
+                "open_issues": 5,
                 "owner": "TheJambo",
                 "repo": "awesome-testing",
-                "stars": 2410,
+                "stars": 2412,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1303,7 +1303,7 @@
                 "open_issues": 0,
                 "owner": "ligurio",
                 "repo": "sqa-wiki",
-                "stars": 2320,
+                "stars": 2321,
                 "topics": [
                   "courses",
                   "ebooks",
@@ -1365,7 +1365,7 @@
                 "open_issues": 5,
                 "owner": "grafana",
                 "repo": "awesome-k6",
-                "stars": 783,
+                "stars": 782,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1513,7 +1513,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T22:36:55.352Z",
+    "last_updated": "2026-11-03T20:25:36.644Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources covering different aspects of Locust load testing tool usage.",
@@ -1521,8 +1521,8 @@
       "id": 304007996,
       "language": null,
       "license": "CC-BY-4.0",
-      "last_commit": "2026-11-01T10:12:37Z",
-      "open_issues": 4,
+      "last_commit": "2026-11-03T01:02:32Z",
+      "open_issues": 0,
       "owner": "aliesbelik",
       "repo": "awesome-locust",
       "stars": 111,
@@ -1537,7 +1537,7 @@
         "python"
       ]
     },
-    "original_repository_sha": "3b18d68eb0946f61d7c2cb92ca729966d9d80209",
+    "original_repository_sha": "bec5377b359e3de6f838f93587e3ba79beb593de",
     "enhanced_repository": "enhansome/enhansome-locust",
     "enhanced_repository_description": null,
     "title": "Awesome Locust with stars"
