@@ -15,11 +15,11 @@
             "id": 1377867,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-03T21:03:10Z",
-            "open_issues": 12,
+            "last_commit": "2026-11-05T15:33:16Z",
+            "open_issues": 8,
             "owner": "locustio",
             "repo": "locust",
-            "stars": 28261,
+            "stars": 28264,
             "topics": [
               "benchmarking",
               "http",
@@ -58,7 +58,7 @@
             "open_issues": 0,
             "owner": "pglass",
             "repo": "how-do-i-locust",
-            "stars": 138,
+            "stars": 137,
             "topics": []
           },
           "first_seen": "2026-08-28T23:26:00.844Z"
@@ -598,8 +598,8 @@
                 "id": 534245046,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-22T14:04:09Z",
-                "open_issues": 11,
+                "last_commit": "2026-11-05T14:04:42Z",
+                "open_issues": 12,
                 "owner": "AbdelrhmanHamouda",
                 "repo": "locust-k8s-operator",
                 "stars": 93,
@@ -1271,8 +1271,8 @@
                 "id": 77133957,
                 "language": null,
                 "license": "CC0-1.0",
-                "last_commit": "2026-11-04T02:28:44Z",
-                "open_issues": 3,
+                "last_commit": "2026-11-04T21:31:11Z",
+                "open_issues": 4,
                 "owner": "TheJambo",
                 "repo": "awesome-testing",
                 "stars": 2413,
@@ -1303,7 +1303,7 @@
                 "open_issues": 0,
                 "owner": "ligurio",
                 "repo": "sqa-wiki",
-                "stars": 2321,
+                "stars": 2322,
                 "topics": [
                   "courses",
                   "ebooks",
@@ -1513,7 +1513,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T20:40:35.214Z",
+    "last_updated": "2026-11-05T20:56:42.523Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources covering different aspects of Locust load testing tool usage.",
