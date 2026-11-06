@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-05T15:33:16Z",
-            "open_issues": 8,
+            "open_issues": 9,
             "owner": "locustio",
             "repo": "locust",
-            "stars": 28264,
+            "stars": 28266,
             "topics": [
               "benchmarking",
               "http",
@@ -552,7 +552,7 @@
                 "id": 292827452,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-02T17:32:43Z",
+                "last_commit": "2026-11-06T02:36:58Z",
                 "open_issues": 21,
                 "owner": "hellofresh",
                 "repo": "kangal",
@@ -835,7 +835,7 @@
                 "open_issues": 503,
                 "owner": "httprunner",
                 "repo": "httprunner",
-                "stars": 4308,
+                "stars": 4307,
                 "topics": [
                   "adb",
                   "agent-tars",
@@ -1271,7 +1271,7 @@
                 "id": 77133957,
                 "language": null,
                 "license": "CC0-1.0",
-                "last_commit": "2026-11-04T21:31:11Z",
+                "last_commit": "2026-11-06T09:16:18Z",
                 "open_issues": 4,
                 "owner": "TheJambo",
                 "repo": "awesome-testing",
@@ -1362,10 +1362,10 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-10-30T22:02:37Z",
-                "open_issues": 5,
+                "open_issues": 6,
                 "owner": "grafana",
                 "repo": "awesome-k6",
-                "stars": 783,
+                "stars": 784,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1513,7 +1513,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T20:56:42.523Z",
+    "last_updated": "2026-11-06T20:16:10.677Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources covering different aspects of Locust load testing tool usage.",
