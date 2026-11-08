@@ -832,10 +832,10 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2025-12-11T16:50:50Z",
-                "open_issues": 503,
+                "open_issues": 504,
                 "owner": "httprunner",
                 "repo": "httprunner",
-                "stars": 4307,
+                "stars": 4308,
                 "topics": [
                   "adb",
                   "agent-tars",
@@ -1271,11 +1271,11 @@
                 "id": 77133957,
                 "language": null,
                 "license": "CC0-1.0",
-                "last_commit": "2026-11-07T05:44:03Z",
+                "last_commit": "2026-11-07T23:27:04Z",
                 "open_issues": 2,
                 "owner": "TheJambo",
                 "repo": "awesome-testing",
-                "stars": 2414,
+                "stars": 2415,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1463,7 +1463,7 @@
                 "open_issues": 7,
                 "owner": "aliesbelik",
                 "repo": "load-testing-toolkit",
-                "stars": 252,
+                "stars": 253,
                 "topics": [
                   "benchmarking",
                   "ddos",
@@ -1513,7 +1513,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T18:29:37.264Z",
+    "last_updated": "2026-11-08T18:40:49.109Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources covering different aspects of Locust load testing tool usage.",
