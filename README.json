@@ -15,11 +15,11 @@
             "id": 1377867,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-06T21:44:31Z",
-            "open_issues": 10,
+            "last_commit": "2026-11-09T20:31:07Z",
+            "open_issues": 11,
             "owner": "locustio",
             "repo": "locust",
-            "stars": 28268,
+            "stars": 28271,
             "topics": [
               "benchmarking",
               "http",
@@ -552,7 +552,7 @@
                 "id": 292827452,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-06T02:36:58Z",
+                "last_commit": "2026-11-09T14:22:01Z",
                 "open_issues": 21,
                 "owner": "hellofresh",
                 "repo": "kangal",
@@ -1271,7 +1271,7 @@
                 "id": 77133957,
                 "language": null,
                 "license": "CC0-1.0",
-                "last_commit": "2026-11-07T23:27:04Z",
+                "last_commit": "2026-11-09T21:54:08Z",
                 "open_issues": 2,
                 "owner": "TheJambo",
                 "repo": "awesome-testing",
@@ -1303,7 +1303,7 @@
                 "open_issues": 0,
                 "owner": "ligurio",
                 "repo": "sqa-wiki",
-                "stars": 2322,
+                "stars": 2321,
                 "topics": [
                   "courses",
                   "ebooks",
@@ -1335,7 +1335,7 @@
                 "open_issues": 4,
                 "owner": "aliesbelik",
                 "repo": "awesome-jmeter",
-                "stars": 808,
+                "stars": 809,
                 "topics": [
                   "apache-jmeter",
                   "awesome",
@@ -1513,7 +1513,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T18:40:49.109Z",
+    "last_updated": "2026-11-09T23:17:27.754Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources covering different aspects of Locust load testing tool usage.",
