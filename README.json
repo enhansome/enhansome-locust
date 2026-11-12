@@ -19,7 +19,7 @@
             "open_issues": 16,
             "owner": "locustio",
             "repo": "locust",
-            "stars": 28275,
+            "stars": 28278,
             "topics": [
               "benchmarking",
               "http",
@@ -552,7 +552,7 @@
                 "id": 292827452,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-09T14:22:01Z",
+                "last_commit": "2026-11-12T20:31:06Z",
                 "open_issues": 21,
                 "owner": "hellofresh",
                 "repo": "kangal",
@@ -598,8 +598,8 @@
                 "id": 534245046,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-05T14:04:42Z",
-                "open_issues": 12,
+                "last_commit": "2026-11-12T14:04:46Z",
+                "open_issues": 13,
                 "owner": "AbdelrhmanHamouda",
                 "repo": "locust-k8s-operator",
                 "stars": 93,
@@ -863,7 +863,7 @@
                 "id": 614084334,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-11T17:35:58Z",
+                "last_commit": "2026-11-12T18:35:23Z",
                 "open_issues": 1,
                 "owner": "alteryx",
                 "repo": "locust-grasshopper",
@@ -1275,7 +1275,7 @@
                 "open_issues": 2,
                 "owner": "TheJambo",
                 "repo": "awesome-testing",
-                "stars": 2418,
+                "stars": 2420,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1303,7 +1303,7 @@
                 "open_issues": 0,
                 "owner": "ligurio",
                 "repo": "sqa-wiki",
-                "stars": 2321,
+                "stars": 2322,
                 "topics": [
                   "courses",
                   "ebooks",
@@ -1335,7 +1335,7 @@
                 "open_issues": 0,
                 "owner": "aliesbelik",
                 "repo": "awesome-jmeter",
-                "stars": 809,
+                "stars": 810,
                 "topics": [
                   "apache-jmeter",
                   "awesome",
@@ -1365,7 +1365,7 @@
                 "open_issues": 6,
                 "owner": "grafana",
                 "repo": "awesome-k6",
-                "stars": 784,
+                "stars": 785,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1392,7 +1392,7 @@
                 "id": 216829747,
                 "language": null,
                 "license": "CC-BY-4.0",
-                "last_commit": "2026-11-02T01:47:38Z",
+                "last_commit": "2026-11-12T04:25:54Z",
                 "open_issues": 0,
                 "owner": "aliesbelik",
                 "repo": "awesome-gatling",
@@ -1513,7 +1513,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T21:05:03.543Z",
+    "last_updated": "2026-11-12T21:19:22.596Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources covering different aspects of Locust load testing tool usage.",
