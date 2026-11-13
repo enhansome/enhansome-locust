@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-10T15:45:00Z",
-            "open_issues": 16,
+            "open_issues": 17,
             "owner": "locustio",
             "repo": "locust",
-            "stars": 28278,
+            "stars": 28282,
             "topics": [
               "benchmarking",
               "http",
@@ -87,7 +87,7 @@
                 "open_issues": 0,
                 "owner": "SvenskaSpel",
                 "repo": "locust-plugins",
-                "stars": 671,
+                "stars": 672,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:26:00.844Z"
@@ -602,7 +602,7 @@
                 "open_issues": 13,
                 "owner": "AbdelrhmanHamouda",
                 "repo": "locust-k8s-operator",
-                "stars": 93,
+                "stars": 94,
                 "topics": [
                   "ci",
                   "cloud",
@@ -835,7 +835,7 @@
                 "open_issues": 504,
                 "owner": "httprunner",
                 "repo": "httprunner",
-                "stars": 4308,
+                "stars": 4307,
                 "topics": [
                   "adb",
                   "agent-tars",
@@ -864,7 +864,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-12T18:35:23Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "alteryx",
                 "repo": "locust-grasshopper",
                 "stars": 196,
@@ -1332,7 +1332,7 @@
                 "language": "HTML",
                 "license": "CC-BY-4.0",
                 "last_commit": "2026-11-10T00:54:27Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "aliesbelik",
                 "repo": "awesome-jmeter",
                 "stars": 810,
@@ -1513,7 +1513,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T21:19:22.596Z",
+    "last_updated": "2026-11-13T20:46:36.937Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources covering different aspects of Locust load testing tool usage.",
