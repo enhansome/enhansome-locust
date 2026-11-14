@@ -19,7 +19,7 @@
             "open_issues": 17,
             "owner": "locustio",
             "repo": "locust",
-            "stars": 28282,
+            "stars": 28285,
             "topics": [
               "benchmarking",
               "http",
@@ -312,22 +312,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "stress test for any website",
+                "description": "Distributed website stress testing: turn every device on your network into a load generator",
                 "homepage": null,
                 "id": 164479579,
-                "language": "JavaScript",
+                "language": "Rust",
                 "license": null,
-                "last_commit": "2025-10-20T03:02:28Z",
-                "open_issues": 16,
+                "last_commit": "2026-11-14T18:53:13Z",
+                "open_issues": 4,
                 "owner": "abdoutelb",
                 "repo": "strezz",
                 "stars": 8,
                 "topics": [
                   "docker",
                   "docker-compose",
-                  "locust",
-                  "nodejs",
                   "performance-testing",
+                  "rust",
                   "stress",
                   "stress-test",
                   "stress-testing",
@@ -1271,11 +1270,11 @@
                 "id": 77133957,
                 "language": null,
                 "license": "CC0-1.0",
-                "last_commit": "2026-11-11T09:36:49Z",
+                "last_commit": "2026-11-14T12:01:44Z",
                 "open_issues": 2,
                 "owner": "TheJambo",
                 "repo": "awesome-testing",
-                "stars": 2420,
+                "stars": 2422,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1303,7 +1302,7 @@
                 "open_issues": 0,
                 "owner": "ligurio",
                 "repo": "sqa-wiki",
-                "stars": 2322,
+                "stars": 2321,
                 "topics": [
                   "courses",
                   "ebooks",
@@ -1463,7 +1462,7 @@
                 "open_issues": 7,
                 "owner": "aliesbelik",
                 "repo": "load-testing-toolkit",
-                "stars": 253,
+                "stars": 252,
                 "topics": [
                   "benchmarking",
                   "ddos",
@@ -1513,7 +1512,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T20:46:36.937Z",
+    "last_updated": "2026-11-14T18:57:23.357Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources covering different aspects of Locust load testing tool usage.",
