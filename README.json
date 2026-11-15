@@ -15,11 +15,11 @@
             "id": 1377867,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-10T15:45:00Z",
-            "open_issues": 17,
+            "last_commit": "2026-11-15T11:59:10Z",
+            "open_issues": 13,
             "owner": "locustio",
             "repo": "locust",
-            "stars": 28285,
+            "stars": 28288,
             "topics": [
               "benchmarking",
               "http",
@@ -317,8 +317,8 @@
                 "id": 164479579,
                 "language": "Rust",
                 "license": null,
-                "last_commit": "2026-11-14T18:53:13Z",
-                "open_issues": 4,
+                "last_commit": "2026-11-14T19:06:41Z",
+                "open_issues": 0,
                 "owner": "abdoutelb",
                 "repo": "strezz",
                 "stars": 8,
@@ -1270,7 +1270,7 @@
                 "id": 77133957,
                 "language": null,
                 "license": "CC0-1.0",
-                "last_commit": "2026-11-14T12:01:44Z",
+                "last_commit": "2026-11-15T07:35:34Z",
                 "open_issues": 2,
                 "owner": "TheJambo",
                 "repo": "awesome-testing",
@@ -1512,7 +1512,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T18:57:23.357Z",
+    "last_updated": "2026-11-15T19:35:13.720Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources covering different aspects of Locust load testing tool usage.",
