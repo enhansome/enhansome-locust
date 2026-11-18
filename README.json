@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-16T15:44:30Z",
-            "open_issues": 17,
+            "open_issues": 19,
             "owner": "locustio",
             "repo": "locust",
-            "stars": 28294,
+            "stars": 28297,
             "topics": [
               "benchmarking",
               "http",
@@ -862,7 +862,7 @@
                 "id": 614084334,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-12T18:35:23Z",
+                "last_commit": "2026-11-18T19:12:33Z",
                 "open_issues": 2,
                 "owner": "alteryx",
                 "repo": "locust-grasshopper",
@@ -1512,7 +1512,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T22:03:24.459Z",
+    "last_updated": "2026-11-18T21:42:59.261Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources covering different aspects of Locust load testing tool usage.",
