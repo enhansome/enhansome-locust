@@ -45,7 +45,7 @@ A curated collection of resources covering different aspects of load testing usi
 
 <!--lint ignore double-link-->
 
-* [Source code](https://github.com/locustio/locust) ⭐ 28,297 | 🐛 19 | 🌐 Python | 📅 2026-11-16
+* [Source code](https://github.com/locustio/locust) ⭐ 28,303 | 🐛 22 | 🌐 Python | 📅 2026-11-16
 * [Homepage](https://locust.io/)
 * [Documentation](https://docs.locust.io/en/latest/)
 
@@ -79,7 +79,7 @@ A curated collection of resources covering different aspects of load testing usi
 
 * [invokust](https://github.com/FutureSharks/invokust) ⭐ 159 | 🐛 9 | 🌐 Python | 📅 2023-07-30 - A wrapper for Locust to allow running load tests in Python or on AWS Lambda.
 * [stormer](https://github.com/debugtalk/stormer) ⭐ 49 | 🐛 0 | 🌐 Python | 📅 2017-05-18 - Wrappers for making load test with Locust more convenient.
-* [strezz](https://github.com/abdoutelb/strezz) ⭐ 8 | 🐛 0 | 🌐 Rust | 📅 2026-11-14 - A wrapper for stress testing using Locust based on Jest.
+* [strezz](https://github.com/abdoutelb/strezz) ⭐ 8 | 🐛 1 | 🌐 Rust | 📅 2026-11-19 - A wrapper for stress testing using Locust based on Jest.
 
 ### Converters
 
@@ -102,7 +102,7 @@ A curated collection of resources covering different aspects of load testing usi
 
 * [kangal](https://github.com/hellofresh/kangal) ⭐ 173 | 🐛 21 | 🌐 Go | 📅 2026-11-12 - Run performance tests in Kubernetes cluster using multiple load generators.
 * [locust-swarm](https://github.com/SvenskaSpel/locust-swarm) ⭐ 99 | 🐛 3 | 🌐 Python | 📅 2024-09-24 - A tool for launching distributed Locust runs on a set of load generators.
-* [locust-k8s-operator](https://github.com/AbdelrhmanHamouda/locust-k8s-operator) ⭐ 94 | 🐛 13 | 🌐 Go | 📅 2026-11-12 - Kubernetes operator for distributed Locust load testing, with native OpenTelemetry support, CI/CD integration, and support for OpenShift and Helm deployments.
+* [locust-k8s-operator](https://github.com/AbdelrhmanHamouda/locust-k8s-operator) ⭐ 95 | 🐛 13 | 🌐 Go | 📅 2026-11-19 - Kubernetes operator for distributed Locust load testing, with native OpenTelemetry support, CI/CD integration, and support for OpenShift and Helm deployments.
 * [klocust](https://github.com/DevopsArtFactory/klocust) ⭐ 65 | 🐛 2 | 🌐 Go | 📅 2026-02-21 - A command-line tool for managing Locust distributed load testing on Kubernetes.
 * [terraform-aws-loadtest-distribuited](https://github.com/marcosborges/terraform-aws-loadtest-distribuited) ⭐ 48 | 🐛 17 | 🌐 HCL | 📅 2024-07-29 - Terraform module to run your load tests created with JMeter, TaurusBzt or Locust on AWS as IaaS.
 * [amazon-eks-locust](https://github.com/aws-samples/Load-testing-your-workload-running-on-Amazon-EKS-with-Locust) ⭐ 39 | 🐛 0 | 🌐 Smarty | 📅 2022-04-25 - Load testing your workload running on Amazon EKS with Locust.
@@ -114,13 +114,13 @@ A curated collection of resources covering different aspects of load testing usi
 ### Frameworks
 
 * [httprunner](https://github.com/httprunner/httprunner) ⭐ 4,307 | 🐛 504 | 🌐 Go | 📅 2025-12-11 - A HTTP/S testing framework with reuse of Locust.
-* [Grasshopper](https://github.com/alteryx/locust-grasshopper) ⭐ 196 | 🐛 2 | 🌐 Python | 📅 2026-11-18 - A lightweight framework for performing load tests, glues Locust, Pytest, some plugins and some custom code to provide a package that makes authoring load tests simple with very little boilerplate needed.
+* [Grasshopper](https://github.com/alteryx/locust-grasshopper) ⭐ 196 | 🐛 2 | 🌐 Python | 📅 2026-11-19 - A lightweight framework for performing load tests, glues Locust, Pytest, some plugins and some custom code to provide a package that makes authoring load tests simple with very little boilerplate needed.
 * [Grizzly](https://github.com/Biometria-se/grizzly) ⭐ 13 | 🐛 4 | 🌐 Python | 📅 2026-09-03 - A framework to easily define load test scenarios, mainly built on top of Locust and Behave.
 * [Taurus](https://gettaurus.org/docs/Locust/) - Locust Executor as part of Taurus framework.
 
 ### Reporting
 
-* [JtlReporter](https://github.com/ludeknovy/jtl-reporter) ⭐ 151 | 🐛 2 | 🌐 Python | 📅 2026-10-25 - Online reporting application to generate performance reports from Locust by either uploading CSV file or streaming data from the test run continuously.
+* [JtlReporter](https://github.com/ludeknovy/jtl-reporter) ⭐ 152 | 🐛 2 | 🌐 Python | 📅 2026-10-25 - Online reporting application to generate performance reports from Locust by either uploading CSV file or streaming data from the test run continuously.
 * [Locust Exporter](https://github.com/ContainerSolutions/locust_exporter) ⭐ 115 | 🐛 12 | 🌐 Go | 📅 2024-04-25 - A Locust metrics exporter for Prometheus.
 * [locust-cloudwatch](https://github.com/concurrencylabs/locust-cloudwatch) ⭐ 31 | 🐛 1 | 🌐 Python | 📅 2019-11-22 - Code and a CloudFormation template to publish Locust test results as AWS CloudWatch metrics.
 * [locust-influxdb-listener](https://github.com/pjcalvo/locust-influxdb-listener) ⭐ 28 | 🐛 4 | 🌐 Python | 📅 2023-11-08 - Locust base project with a custom InfluxDB listener.
@@ -182,10 +182,10 @@ A curated collection of resources covering different aspects of load testing usi
 
 ### Awesome Lists
 
-* [Awesome Testing](https://github.com/TheJambo/awesome-testing) ⭐ 2,424 | 🐛 2 | 📅 2026-11-17 - A curated list of testing resources.
+* [Awesome Testing](https://github.com/TheJambo/awesome-testing) ⭐ 2,424 | 🐛 4 | 📅 2026-11-19 - A curated list of testing resources.
 * [Awesome Software Quality](https://github.com/ligurio/sqa-wiki) ⭐ 2,323 | 🐛 0 | 📅 2023-02-01 - A list of free software testing and verification resources.
 * [Awesome JMeter](https://github.com/aliesbelik/awesome-jmeter) ⭐ 810 | 🐛 1 | 🌐 HTML | 📅 2026-11-10 - Open-source load testing and performance measurement tool, written in Java.
-* [Awesome k6](https://github.com/grafana/awesome-k6) ⭐ 787 | 🐛 5 | 📅 2026-10-30 - Open-source, developer-centric performance monitoring and load testing solution.
+* [Awesome k6](https://github.com/grafana/awesome-k6) ⭐ 788 | 🐛 6 | 📅 2026-10-30 - Open-source, developer-centric performance monitoring and load testing solution.
 * [Awesome Gatling](https://github.com/aliesbelik/awesome-gatling) ⭐ 80 | 🐛 0 | 📅 2026-11-12 - Open-source load and performance testing framework based on Scala, Akka and Netty.
 * [Awesome Tsung](https://github.com/aliesbelik/awesome-tsung) ⭐ 23 | 🐛 0 | 📅 2026-11-15 - Open-source multi-protocol distributed load testing tool, developed in Erlang.
 
@@ -201,4 +201,4 @@ Please take a look at the [CONTRIBUTING](CONTRIBUTING.md) guidelines first.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
