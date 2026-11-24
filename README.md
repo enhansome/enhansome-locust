@@ -45,7 +45,7 @@ A curated collection of resources covering different aspects of load testing usi
 
 <!--lint ignore double-link-->
 
-* [Source code](https://github.com/locustio/locust) ⭐ 28,306 | 🐛 23 | 🌐 Python | 📅 2026-11-16
+* [Source code](https://github.com/locustio/locust) ⭐ 28,308 | 🐛 23 | 🌐 Python | 📅 2026-11-24
 * [Homepage](https://locust.io/)
 * [Documentation](https://docs.locust.io/en/latest/)
 
@@ -79,7 +79,7 @@ A curated collection of resources covering different aspects of load testing usi
 
 * [invokust](https://github.com/FutureSharks/invokust) ⭐ 159 | 🐛 9 | 🌐 Python | 📅 2023-07-30 - A wrapper for Locust to allow running load tests in Python or on AWS Lambda.
 * [stormer](https://github.com/debugtalk/stormer) ⭐ 49 | 🐛 0 | 🌐 Python | 📅 2017-05-18 - Wrappers for making load test with Locust more convenient.
-* [strezz](https://github.com/abdoutelb/strezz) ⭐ 8 | 🐛 3 | 🌐 Rust | 📅 2026-11-23 - A wrapper for stress testing using Locust based on Jest.
+* [strezz](https://github.com/abdoutelb/strezz) ⭐ 8 | 🐛 4 | 🌐 Rust | 📅 2026-11-24 - A wrapper for stress testing using Locust based on Jest.
 
 ### Converters
 
@@ -182,7 +182,7 @@ A curated collection of resources covering different aspects of load testing usi
 
 ### Awesome Lists
 
-* [Awesome Testing](https://github.com/TheJambo/awesome-testing) ⭐ 2,429 | 🐛 7 | 📅 2026-11-21 - A curated list of testing resources.
+* [Awesome Testing](https://github.com/TheJambo/awesome-testing) ⭐ 2,429 | 🐛 14 | 📅 2026-11-21 - A curated list of testing resources.
 * [Awesome Software Quality](https://github.com/ligurio/sqa-wiki) ⭐ 2,324 | 🐛 0 | 📅 2023-02-01 - A list of free software testing and verification resources.
 * [Awesome JMeter](https://github.com/aliesbelik/awesome-jmeter) ⭐ 811 | 🐛 1 | 🌐 HTML | 📅 2026-11-10 - Open-source load testing and performance measurement tool, written in Java.
 * [Awesome k6](https://github.com/grafana/awesome-k6) ⭐ 788 | 🐛 6 | 📅 2026-10-30 - Open-source, developer-centric performance monitoring and load testing solution.
