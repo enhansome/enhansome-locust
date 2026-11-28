@@ -45,7 +45,7 @@ A curated collection of resources covering different aspects of load testing usi
 
 <!--lint ignore double-link-->
 
-* [Source code](https://github.com/locustio/locust) ⭐ 28,313 | 🐛 16 | 🌐 Python | 📅 2026-11-27
+* [Source code](https://github.com/locustio/locust) ⭐ 28,312 | 🐛 17 | 🌐 Python | 📅 2026-11-27
 * [Homepage](https://locust.io/)
 * [Documentation](https://docs.locust.io/en/latest/)
 
@@ -68,11 +68,11 @@ A curated collection of resources covering different aspects of load testing usi
 
 <!--lint ignore double-link-->
 
-* [boomer](https://github.com/myzhan/boomer) ⭐ 1,237 | 🐛 1 | 🌐 Go | 📅 2026-11-20 - A better load generator for Locust, written in Golang.
+* [boomer](https://github.com/myzhan/boomer) ⭐ 1,235 | 🐛 1 | 🌐 Go | 📅 2026-11-20 - A better load generator for Locust, written in Golang.
 * [locust4j](https://github.com/myzhan/locust4j) ⭐ 89 | 🐛 2 | 🌐 Java | 📅 2026-01-06 - A load generator for Locust, written in Java.
 * [swarm](https://github.com/anhldbk/swarm) ⭐ 36 | 🐛 5 | 🌐 Java | 📅 2025-01-03 - An elegant Java client for Locust.
 * [node-locust](https://github.com/jspdown/node-locust) ⭐ 10 | 🐛 0 | 🌐 JavaScript | 📅 2019-02-25 - A Node.js load generator for Locust.
-* [ably-boomer](https://github.com/ably/ably-boomer) ⭐ 8 | 🐛 1 | 🌐 Go | 📅 2023-02-14 - Ably load generator for Locust, based on the [boomer](https://github.com/myzhan/boomer) ⭐ 1,237 | 🐛 1 | 🌐 Go | 📅 2026-11-20 library.
+* [ably-boomer](https://github.com/ably/ably-boomer) ⭐ 8 | 🐛 1 | 🌐 Go | 📅 2023-02-14 - Ably load generator for Locust, based on the [boomer](https://github.com/myzhan/boomer) ⭐ 1,235 | 🐛 1 | 🌐 Go | 📅 2026-11-20 library.
 * [ably-locust](https://github.com/ably-labs/ably-locust) ⭐ 1 | 🐛 6 | 🌐 TypeScript | 📅 2023-07-19 - A JavaScript load generator for Locust.
 
 ### Wrappers
@@ -84,7 +84,7 @@ A curated collection of resources covering different aspects of load testing usi
 ### Converters
 
 * [har2locust](https://github.com/SvenskaSpel/har2locust) ⭐ 237 | 🐛 6 | 🌐 Python | 📅 2026-03-14 - Convert HAR file to a Locust script.
-* [transformer](https://github.com/zalando-incubator/transformer) ⭐ 104 | 🐛 17 | 🌐 Python | 📅 2023-03-15 - A command-line tool and Python library to transform/convert web browser sessions (HAR files) into Locust load testing scenarios (locustfile).
+* [transformer](https://github.com/zalando-incubator/transformer) ⭐ 103 | 🐛 17 | 🌐 Python | 📅 2023-03-15 - A command-line tool and Python library to transform/convert web browser sessions (HAR files) into Locust load testing scenarios (locustfile).
 * [swagger-to-locustfile](https://github.com/lieldulev/swagger-to-locustfile) ⭐ 33 | 🐛 4 | 🌐 JavaScript | 📅 2026-09-13 - A command-line tool to create Locust tasks file (locustfile) from Swagger/OpenAPI spec.
 
 ### IDE Extensions
@@ -113,7 +113,7 @@ A curated collection of resources covering different aspects of load testing usi
 
 ### Frameworks
 
-* [httprunner](https://github.com/httprunner/httprunner) ⭐ 4,308 | 🐛 508 | 🌐 Go | 📅 2025-12-11 - A HTTP/S testing framework with reuse of Locust.
+* [httprunner](https://github.com/httprunner/httprunner) ⭐ 4,307 | 🐛 508 | 🌐 Go | 📅 2025-12-11 - A HTTP/S testing framework with reuse of Locust.
 * [Grasshopper](https://github.com/alteryx/locust-grasshopper) ⭐ 197 | 🐛 1 | 🌐 Python | 📅 2026-11-20 - A lightweight framework for performing load tests, glues Locust, Pytest, some plugins and some custom code to provide a package that makes authoring load tests simple with very little boilerplate needed.
 * [Grizzly](https://github.com/Biometria-se/grizzly) ⭐ 13 | 🐛 4 | 🌐 Python | 📅 2026-09-03 - A framework to easily define load test scenarios, mainly built on top of Locust and Behave.
 * [Taurus](https://gettaurus.org/docs/Locust/) - Locust Executor as part of Taurus framework.
@@ -183,8 +183,8 @@ A curated collection of resources covering different aspects of load testing usi
 ### Awesome Lists
 
 * [Awesome Testing](https://github.com/TheJambo/awesome-testing) ⭐ 2,434 | 🐛 3 | 📅 2026-11-27 - A curated list of testing resources.
-* [Awesome Software Quality](https://github.com/ligurio/sqa-wiki) ⭐ 2,325 | 🐛 0 | 📅 2023-02-01 - A list of free software testing and verification resources.
-* [Awesome JMeter](https://github.com/aliesbelik/awesome-jmeter) ⭐ 812 | 🐛 3 | 🌐 HTML | 📅 2026-11-10 - Open-source load testing and performance measurement tool, written in Java.
+* [Awesome Software Quality](https://github.com/ligurio/sqa-wiki) ⭐ 2,324 | 🐛 0 | 📅 2023-02-01 - A list of free software testing and verification resources.
+* [Awesome JMeter](https://github.com/aliesbelik/awesome-jmeter) ⭐ 811 | 🐛 3 | 🌐 HTML | 📅 2026-11-10 - Open-source load testing and performance measurement tool, written in Java.
 * [Awesome k6](https://github.com/grafana/awesome-k6) ⭐ 788 | 🐛 6 | 📅 2026-10-30 - Open-source, developer-centric performance monitoring and load testing solution.
 * [Awesome Gatling](https://github.com/aliesbelik/awesome-gatling) ⭐ 80 | 🐛 0 | 📅 2026-11-12 - Open-source load and performance testing framework based on Scala, Akka and Netty.
 * [Awesome Tsung](https://github.com/aliesbelik/awesome-tsung) ⭐ 23 | 🐛 0 | 📅 2026-11-15 - Open-source multi-protocol distributed load testing tool, developed in Erlang.
@@ -201,4 +201,4 @@ Please take a look at the [CONTRIBUTING](CONTRIBUTING.md) guidelines first.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-28._

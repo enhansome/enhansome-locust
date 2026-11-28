@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-27T22:17:19Z",
-            "open_issues": 16,
+            "open_issues": 17,
             "owner": "locustio",
             "repo": "locust",
-            "stars": 28313,
+            "stars": 28312,
             "topics": [
               "benchmarking",
               "http",
@@ -115,7 +115,7 @@
                 "open_issues": 1,
                 "owner": "myzhan",
                 "repo": "boomer",
-                "stars": 1237,
+                "stars": 1235,
                 "topics": [
                   "benchmark",
                   "benchmark-framework",
@@ -380,7 +380,7 @@
                 "open_issues": 17,
                 "owner": "zalando-incubator",
                 "repo": "transformer",
-                "stars": 104,
+                "stars": 103,
                 "topics": [
                   "load-testing",
                   "locust",
@@ -834,7 +834,7 @@
                 "open_issues": 508,
                 "owner": "httprunner",
                 "repo": "httprunner",
-                "stars": 4308,
+                "stars": 4307,
                 "topics": [
                   "adb",
                   "agent-tars",
@@ -1270,7 +1270,7 @@
                 "id": 77133957,
                 "language": null,
                 "license": "CC0-1.0",
-                "last_commit": "2026-11-27T15:02:40Z",
+                "last_commit": "2026-11-27T22:51:15Z",
                 "open_issues": 3,
                 "owner": "TheJambo",
                 "repo": "awesome-testing",
@@ -1302,7 +1302,7 @@
                 "open_issues": 0,
                 "owner": "ligurio",
                 "repo": "sqa-wiki",
-                "stars": 2325,
+                "stars": 2324,
                 "topics": [
                   "courses",
                   "ebooks",
@@ -1334,7 +1334,7 @@
                 "open_issues": 3,
                 "owner": "aliesbelik",
                 "repo": "awesome-jmeter",
-                "stars": 812,
+                "stars": 811,
                 "topics": [
                   "apache-jmeter",
                   "awesome",
@@ -1512,7 +1512,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T22:30:32.027Z",
+    "last_updated": "2026-11-28T21:35:03.220Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources covering different aspects of Locust load testing tool usage.",
